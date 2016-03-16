@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ROUND": "1", "APP_NUM": "23", "NAME": "North Prince of Wales Island Intertie Project", "APPLICANT": "Alaska Power & Telephone Co", "LOCATION": "Coffman Cove", "LON": -132.87777800000001, "LAT": 56.013888999999999, "TYPE": "Transmission", "PROJECT_CO": 1709870, "GRANT_AMOU": 3752181, "MATCH": null, "PM": "RG", "NOTE": "Intertie to Naukati Bay", "LABEL": "N. Prince of Wales Intertie" }, "geometry": { "type": "Point", "coordinates": [ -132.877777999673441, 56.013889000140821 ] } },
+{ "type": "Feature", "properties": { "ROUND": "1", "APP_NUM": "47", "NAME": "Nome Banner Peak Wind Farm Transmission  Construction", "APPLICANT": "City of Nome d\/b\/a Nome Joint Utilities System", "LOCATION": "Nome", "LON": -165.41999999999999, "LAT": 64.5, "TYPE": "Transmission", "PROJECT_CO": 890000, "GRANT_AMOU": 801000, "MATCH": "89,000", "PM": "RS", "NOTE": null, "LABEL": "Banner Peak Wind" }, "geometry": { "type": "Point", "coordinates": [ -165.42000000026141, 64.500000000304397 ] } },
+{ "type": "Feature", "properties": { "ROUND": null, "APP_NUM": null, "NAME": "Snettisham Transmission", "APPLICANT": null, "LOCATION": null, "LON": -133.733, "LAT": 58.166670000000003, "TYPE": "Transmission", "PROJECT_CO": 0, "GRANT_AMOU": 0, "MATCH": null, "PM": null, "NOTE": null, "LABEL": null }, "geometry": { "type": "Point", "coordinates": [ -133.733000000313609, 58.166669999994497 ] } }
+]
+}

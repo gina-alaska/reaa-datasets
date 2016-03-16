@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ROUND": "2", "APP_NUM": "265", "NAME": "Kvichak River RISEC", "APPLICANT": "Igiugig Village Council", "LOCATION": "Igiugig", "LON": -155.89680000000001, "LAT": 59.32705, "TYPE": "OceanRiver", "PROJECT_CO": 0, "GRANT_AMOU": 0, "MATCH": "0", "PM": "AF", "NOTE": null, "LABEL": "Kvichak River RISEC" }, "geometry": { "type": "Point", "coordinates": [ -155.896800000633306, 59.327049999841471 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ROUND": null, "APP_NUM": null, "NAME": "Anchorage Landfill Gas Electricity", "APPLICANT": null, "LOCATION": "Anchorage", "LON": 0, "LAT": 0, "TYPE": "Biofuels", "PROJECT_CO": 0, "GRANT_AMOU": 0, "MATCH": null, "PM": null, "NOTE": null, "LABEL": null }, "geometry": { "type": "Point", "coordinates": [ -149.8999999998546, 61.218059999646925 ] } }
+]
+}

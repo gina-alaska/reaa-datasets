@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ROUND": "0", "APP_NUM": "0", "NAME": "Juneau Airport Ground Source Heat Pump", "APPLICANT": "City & Borough of Juneau", "LOCATION": "Juneau", "LON": -134.40000000000001, "LAT": 58.299999999999997, "TYPE": "Geothermal", "PROJECT_CO": 1026000, "GRANT_AMOU": 513000, "MATCH": "513000", "PM": "BTp", "NOTE": null, "LABEL": "Juneau Airport GSHP" }, "geometry": { "type": "Point", "coordinates": [ -134.400000000703301, 58.300000000163806 ] } },
+{ "type": "Feature", "properties": { "ROUND": "1", "APP_NUM": "111", "NAME": "Juneau Ground Source Heat Pump Construction (Aquatic Center)", "APPLICANT": "City & Borough of Juneau", "LOCATION": "Juneau", "LON": -134.40000000000001, "LAT": 58.299999999999997, "TYPE": "Geothermal", "PROJECT_CO": 1950000, "GRANT_AMOU": 1450000, "MATCH": "500,000", "PM": "BTp", "NOTE": null, "LABEL": "Juneau Aquatic Ctr. GSHP" }, "geometry": { "type": "Point", "coordinates": [ -134.400000000703301, 58.300000000163806 ] } },
+{ "type": "Feature", "properties": { "ROUND": "3", "APP_NUM": "453", "NAME": "Alaska SeaLife Center Phase II Seawater Heat Pump Project", "APPLICANT": "City of Seward", "LOCATION": "Seward", "LON": -149.44, "LAT": 60.100000000000001, "TYPE": "Geothermal", "PROJECT_CO": 401000, "GRANT_AMOU": 286580, "MATCH": "286,580", "PM": "BTp", "NOTE": null, "LABEL": "Alaska Sealife Ctr. Seawater Heat Pump" }, "geometry": { "type": "Point", "coordinates": [ -149.439999999278371, 60.100000000253722 ] } },
+{ "type": "Feature", "properties": { "ROUND": null, "APP_NUM": null, "NAME": "Japonski Is. Boathouse GSHP", "APPLICANT": null, "LOCATION": null, "LON": -135.33000000000001, "LAT": 57.053060000099997, "TYPE": "Geothermal", "PROJECT_CO": 0, "GRANT_AMOU": 0, "MATCH": null, "PM": null, "NOTE": null, "LABEL": null }, "geometry": { "type": "Point", "coordinates": [ -135.329999999669951, 57.053060000123843 ] } }
+]
+}
