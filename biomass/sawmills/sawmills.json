@@ -1,0 +1,175 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Anchor Point", "COMMUNITY": "Anchor Point", "SAWMILL_CO": 4.000000, "LAT": 59.776670, "LON": -151.831390 }, "geometry": { "type": "Point", "coordinates": [ 121345.365800, 1089297.406600 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Anchorage", "COMMUNITY": "Anchorage", "SAWMILL_CO": 4.000000, "LAT": 61.218060, "LON": -149.900280 }, "geometry": { "type": "Point", "coordinates": [ 219350.923900, 1255297.140500 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Cape Pole", "COMMUNITY": "", "SAWMILL_CO": 1.000000, "LAT": 55.953330, "LON": -133.813330 }, "geometry": { "type": "Point", "coordinates": [ 1240240.628300, 850273.886400 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Chuathbaluk", "COMMUNITY": "Chuathbaluk", "SAWMILL_CO": 1.000000, "LAT": 61.571940, "LON": -159.245000 }, "geometry": { "type": "Point", "coordinates": [ -277391.739700, 1299062.823800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Coffman Cove", "COMMUNITY": "Coffman Cove", "SAWMILL_CO": 1.000000, "LAT": 56.013890, "LON": -132.827780 }, "geometry": { "type": "Point", "coordinates": [ 1296660.291600, 875524.705000 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Cooper Landing", "COMMUNITY": "Cooper Landing", "SAWMILL_CO": 1.000000, "LAT": 60.490000, "LON": -149.834170 }, "geometry": { "type": "Point", "coordinates": [ 227988.131100, 1174246.124200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Copper Center", "COMMUNITY": "Copper Center", "SAWMILL_CO": 1.000000, "LAT": 61.955000, "LON": -145.305280 }, "geometry": { "type": "Point", "coordinates": [ 453408.654800, 1360665.021100 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Craig", "COMMUNITY": "Craig", "SAWMILL_CO": 5.000000, "LAT": 55.476390, "LON": -133.148330 }, "geometry": { "type": "Point", "coordinates": [ 1296182.920300, 812340.936500 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Delta Junction", "COMMUNITY": "Delta Junction", "SAWMILL_CO": 2.000000, "LAT": 64.037780, "LON": -145.732220 }, "geometry": { "type": "Point", "coordinates": [ 402361.127100, 1588774.619800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Edna Bay", "COMMUNITY": "Edna Bay", "SAWMILL_CO": 1.000000, "LAT": 55.948890, "LON": -133.662220 }, "geometry": { "type": "Point", "coordinates": [ 1249382.897600, 852634.227400 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Fairbanks", "COMMUNITY": "Fairbanks", "SAWMILL_CO": 6.000000, "LAT": 64.837780, "LON": -147.716390 }, "geometry": { "type": "Point", "coordinates": [ 297699.488800, 1667060.070600 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Gustavus", "COMMUNITY": "Gustavus", "SAWMILL_CO": 4.000000, "LAT": 58.413330, "LON": -135.736940 }, "geometry": { "type": "Point", "coordinates": [ 1050650.433100, 1080287.314500 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Haines", "COMMUNITY": "Haines", "SAWMILL_CO": 8.000000, "LAT": 59.235830, "LON": -135.445000 }, "geometry": { "type": "Point", "coordinates": [ 1041655.872600, 1173313.096100 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Homer", "COMMUNITY": "Homer", "SAWMILL_CO": 2.000000, "LAT": 59.642500, "LON": -151.548330 }, "geometry": { "type": "Point", "coordinates": [ 137731.064200, 1074855.063200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Hoonah", "COMMUNITY": "Hoonah", "SAWMILL_CO": 2.000000, "LAT": 58.110000, "LON": -135.443610 }, "geometry": { "type": "Point", "coordinates": [ 1076434.907600, 1052386.101300 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Juneau", "COMMUNITY": "Juneau", "SAWMILL_CO": 1.000000, "LAT": 58.301940, "LON": -134.419720 }, "geometry": { "type": "Point", "coordinates": [ 1127913.856900, 1089947.384600 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Kake", "COMMUNITY": "Kake", "SAWMILL_CO": 1.000000, "LAT": 56.975830, "LON": -133.947220 }, "geometry": { "type": "Point", "coordinates": [ 1198350.603900, 956671.715600 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Kenai", "COMMUNITY": "Kenai", "SAWMILL_CO": 1.000000, "LAT": 60.554440, "LON": -151.258330 }, "geometry": { "type": "Point", "coordinates": [ 149804.843900, 1177393.159200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Ketchikan", "COMMUNITY": "Ketchikan", "SAWMILL_CO": 4.000000, "LAT": 55.342220, "LON": -131.646110 }, "geometry": { "type": "Point", "coordinates": [ 1391071.840200, 828572.838900 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Klawock", "COMMUNITY": "Klawock", "SAWMILL_CO": 2.000000, "LAT": 55.552220, "LON": -133.095830 }, "geometry": { "type": "Point", "coordinates": [ 1296722.623600, 821399.692400 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Kodiak", "COMMUNITY": "Kodiak", "SAWMILL_CO": 1.000000, "LAT": 57.788890, "LON": -152.401900 }, "geometry": { "type": "Point", "coordinates": [ 94775.352300, 866282.680800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "McGrath", "COMMUNITY": "McGrath", "SAWMILL_CO": 1.000000, "LAT": 62.956390, "LON": -155.595830 }, "geometry": { "type": "Point", "coordinates": [ -80758.931000, 1443865.510500 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Naukati", "COMMUNITY": "Naukati Bay", "SAWMILL_CO": 1.000000, "LAT": 55.880770, "LON": -133.195000 }, "geometry": { "type": "Point", "coordinates": [ 1279490.911600, 854298.218000 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Nikiski", "COMMUNITY": "Nikiski", "SAWMILL_CO": 2.000000, "LAT": 60.716050, "LON": -151.340660 }, "geometry": { "type": "Point", "coordinates": [ 144585.157200, 1195271.299300 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Ninilchik", "COMMUNITY": "Ninilchik", "SAWMILL_CO": 1.000000, "LAT": 60.051390, "LON": -151.668890 }, "geometry": { "type": "Point", "coordinates": [ 129356.333400, 1120308.981200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "North Pole", "COMMUNITY": "North Pole", "SAWMILL_CO": 4.000000, "LAT": 64.751110, "LON": -147.349440 }, "geometry": { "type": "Point", "coordinates": [ 315994.373900, 1659135.033700 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Palmer", "COMMUNITY": "Palmer", "SAWMILL_CO": 3.000000, "LAT": 61.599720, "LON": -149.112780 }, "geometry": { "type": "Point", "coordinates": [ 258276.862900, 1300717.740800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Pelican", "COMMUNITY": "Pelican", "SAWMILL_CO": 1.000000, "LAT": 57.960830, "LON": -136.227500 }, "geometry": { "type": "Point", "coordinates": [ 1036484.638600, 1023870.496100 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Petersburg", "COMMUNITY": "Petersburg", "SAWMILL_CO": 3.000000, "LAT": 56.812500, "LON": -132.955560 }, "geometry": { "type": "Point", "coordinates": [ 1261343.821500, 957674.519200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Red Devil", "COMMUNITY": "Red Devil", "SAWMILL_CO": 1.000000, "LAT": 61.761110, "LON": -157.312500 }, "geometry": { "type": "Point", "coordinates": [ -174242.575200, 1313605.606800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Salcha", "COMMUNITY": "Salcha", "SAWMILL_CO": 3.000000, "LAT": 64.529540, "LON": -146.864730 }, "geometry": { "type": "Point", "coordinates": [ 341589.754400, 1636950.259800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Sitka", "COMMUNITY": "Sitka", "SAWMILL_CO": 2.000000, "LAT": 57.053060, "LON": -135.330000 }, "geometry": { "type": "Point", "coordinates": [ 1115597.286700, 940837.217900 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Sterling", "COMMUNITY": "Sterling", "SAWMILL_CO": 2.000000, "LAT": 60.537220, "LON": -150.764720 }, "geometry": { "type": "Point", "coordinates": [ 176849.772600, 1176683.068400 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Sutton", "COMMUNITY": "Sutton-Alpine", "SAWMILL_CO": 1.000000, "LAT": 61.796640, "LON": -148.845280 }, "geometry": { "type": "Point", "coordinates": [ 270678.243800, 1323742.687700 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Talkeetna", "COMMUNITY": "Talkeetna", "SAWMILL_CO": 1.000000, "LAT": 62.323890, "LON": -150.109440 }, "geometry": { "type": "Point", "coordinates": [ 200932.646600, 1378077.269700 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Tenakee", "COMMUNITY": "Tenakee Springs", "SAWMILL_CO": 1.000000, "LAT": 57.780830, "LON": -135.218890 }, "geometry": { "type": "Point", "coordinates": [ 1099384.170800, 1020739.913900 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Thorne Bay", "COMMUNITY": "Thorne Bay", "SAWMILL_CO": 9.000000, "LAT": 55.687780, "LON": -132.522220 }, "geometry": { "type": "Point", "coordinates": [ 1326272.738200, 847069.567200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Tok", "COMMUNITY": "Tok", "SAWMILL_CO": 3.000000, "LAT": 63.336670, "LON": -142.985560 }, "geometry": { "type": "Point", "coordinates": [ 547885.111300, 1530928.570300 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Valdez", "COMMUNITY": "Valdez", "SAWMILL_CO": 1.000000, "LAT": 61.130830, "LON": -146.348330 }, "geometry": { "type": "Point", "coordinates": [ 409870.024900, 1262406.239800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Wasilla", "COMMUNITY": "Wasilla", "SAWMILL_CO": 9.000000, "LAT": 61.581390, "LON": -149.439440 }, "geometry": { "type": "Point", "coordinates": [ 241182.516900, 1297444.565000 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Willow", "COMMUNITY": "Willow", "SAWMILL_CO": 2.000000, "LAT": 61.747220, "LON": -150.037500 }, "geometry": { "type": "Point", "coordinates": [ 208488.949000, 1313927.569000 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Wrangell", "COMMUNITY": "Wrangell", "SAWMILL_CO": 2.000000, "LAT": 56.470830, "LON": -132.376670 }, "geometry": { "type": "Point", "coordinates": [ 1307016.354800, 932699.975900 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Sawmill", "CITY": "Yakutat", "COMMUNITY": "Yakutat", "SAWMILL_CO": 1.000000, "LAT": 59.546940, "LON": -139.727220 }, "geometry": { "type": "Point", "coordinates": [ 798124.217300, 1147723.351900 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Anchor Point", "COMMUNITY": "Anchor Point", "SAWMILL_CO": 3.000000, "LAT": 59.776670, "LON": -151.831390 }, "geometry": { "type": "Point", "coordinates": [ 121345.365800, 1089297.406600 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Anchorage", "COMMUNITY": "Anchorage", "SAWMILL_CO": 30.000000, "LAT": 61.218060, "LON": -149.900280 }, "geometry": { "type": "Point", "coordinates": [ 219350.923900, 1255297.140500 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Chuathbaluk", "COMMUNITY": "Chuathbaluk", "SAWMILL_CO": 1.000000, "LAT": 61.571940, "LON": -159.245000 }, "geometry": { "type": "Point", "coordinates": [ -277391.739700, 1299062.823800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Cooper Landing", "COMMUNITY": "Cooper Landing", "SAWMILL_CO": 3.000000, "LAT": 60.490000, "LON": -149.834170 }, "geometry": { "type": "Point", "coordinates": [ 227988.131100, 1174246.124200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Copper Center", "COMMUNITY": "Copper Center", "SAWMILL_CO": 1.000000, "LAT": 61.955000, "LON": -145.305280 }, "geometry": { "type": "Point", "coordinates": [ 453408.654800, 1360665.021100 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Craig", "COMMUNITY": "Craig", "SAWMILL_CO": 2.000000, "LAT": 55.476390, "LON": -133.148330 }, "geometry": { "type": "Point", "coordinates": [ 1296182.920300, 812340.936500 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Delta Junction", "COMMUNITY": "Delta Junction", "SAWMILL_CO": 4.000000, "LAT": 64.037780, "LON": -145.732220 }, "geometry": { "type": "Point", "coordinates": [ 402361.127100, 1588774.619800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Douglas", "COMMUNITY": "Douglas", "SAWMILL_CO": 1.000000, "LAT": 58.298947, "LON": -134.452699 }, "geometry": { "type": "Point", "coordinates": [ 1126166.365800, 1089067.682400 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Eagle River", "COMMUNITY": "Eagle River-Chugiak", "SAWMILL_CO": 3.000000, "LAT": 61.322220, "LON": -149.566670 }, "geometry": { "type": "Point", "coordinates": [ 236397.718800, 1268067.598100 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Eielson", "COMMUNITY": "Eielson AFB", "SAWMILL_CO": 1.000000, "LAT": 64.664440, "LON": -147.099440 }, "geometry": { "type": "Point", "coordinates": [ 328833.577800, 1650731.443600 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Fairbanks", "COMMUNITY": "Fairbanks", "SAWMILL_CO": 11.000000, "LAT": 64.837780, "LON": -147.716390 }, "geometry": { "type": "Point", "coordinates": [ 297699.488800, 1667060.070600 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Gakona", "COMMUNITY": "Gakona", "SAWMILL_CO": 1.000000, "LAT": 62.301940, "LON": -145.301940 }, "geometry": { "type": "Point", "coordinates": [ 448515.377300, 1399149.554500 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Girdwood", "COMMUNITY": "Girdwood", "SAWMILL_CO": 1.000000, "LAT": 60.941670, "LON": -149.166670 }, "geometry": { "type": "Point", "coordinates": [ 260785.706900, 1227105.172000 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Gustavus", "COMMUNITY": "Gustavus", "SAWMILL_CO": 1.000000, "LAT": 58.413330, "LON": -135.736940 }, "geometry": { "type": "Point", "coordinates": [ 1050650.433100, 1080287.314500 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Haines", "COMMUNITY": "Haines", "SAWMILL_CO": 9.000000, "LAT": 59.235830, "LON": -135.445000 }, "geometry": { "type": "Point", "coordinates": [ 1041655.872600, 1173313.096100 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Healy", "COMMUNITY": "Healy", "SAWMILL_CO": 1.000000, "LAT": 63.856940, "LON": -148.966110 }, "geometry": { "type": "Point", "coordinates": [ 246908.027100, 1552866.399900 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Homer", "COMMUNITY": "Homer", "SAWMILL_CO": 2.000000, "LAT": 59.642500, "LON": -151.548330 }, "geometry": { "type": "Point", "coordinates": [ 137731.064200, 1074855.063200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Hoonah", "COMMUNITY": "Hoonah", "SAWMILL_CO": 2.000000, "LAT": 58.110000, "LON": -135.443610 }, "geometry": { "type": "Point", "coordinates": [ 1076434.907600, 1052386.101300 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Juneau", "COMMUNITY": "Juneau", "SAWMILL_CO": 5.000000, "LAT": 58.301940, "LON": -134.419720 }, "geometry": { "type": "Point", "coordinates": [ 1127913.856900, 1089947.384600 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Kenai", "COMMUNITY": "Kenai", "SAWMILL_CO": 2.000000, "LAT": 60.554440, "LON": -151.258330 }, "geometry": { "type": "Point", "coordinates": [ 149804.843900, 1177393.159200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Ketchikan", "COMMUNITY": "Ketchikan", "SAWMILL_CO": 6.000000, "LAT": 55.342220, "LON": -131.646110 }, "geometry": { "type": "Point", "coordinates": [ 1391071.840200, 828572.838900 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Klawock", "COMMUNITY": "Klawock", "SAWMILL_CO": 1.000000, "LAT": 55.552220, "LON": -133.095830 }, "geometry": { "type": "Point", "coordinates": [ 1296722.623600, 821399.692400 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Kodiak", "COMMUNITY": "Kodiak", "SAWMILL_CO": 4.000000, "LAT": 57.788890, "LON": -152.401900 }, "geometry": { "type": "Point", "coordinates": [ 94775.352300, 866282.680800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Meyers Chuck", "COMMUNITY": "Meyers Chuck", "SAWMILL_CO": 1.000000, "LAT": 55.740830, "LON": -132.256390 }, "geometry": { "type": "Point", "coordinates": [ 1340199.841100, 858007.703100 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Naukati", "COMMUNITY": "Naukati Bay", "SAWMILL_CO": 1.000000, "LAT": 55.880770, "LON": -133.195000 }, "geometry": { "type": "Point", "coordinates": [ 1279490.911600, 854298.218000 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Nikiski", "COMMUNITY": "Nikiski", "SAWMILL_CO": 4.000000, "LAT": 60.716050, "LON": -151.340660 }, "geometry": { "type": "Point", "coordinates": [ 144585.157200, 1195271.299300 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "North Pole", "COMMUNITY": "North Pole", "SAWMILL_CO": 10.000000, "LAT": 64.751110, "LON": -147.349440 }, "geometry": { "type": "Point", "coordinates": [ 315994.373900, 1659135.033700 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Palmer", "COMMUNITY": "Palmer", "SAWMILL_CO": 7.000000, "LAT": 61.599720, "LON": -149.112780 }, "geometry": { "type": "Point", "coordinates": [ 258276.862900, 1300717.740800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Petersburg", "COMMUNITY": "Petersburg", "SAWMILL_CO": 2.000000, "LAT": 56.812500, "LON": -132.955560 }, "geometry": { "type": "Point", "coordinates": [ 1261343.821500, 957674.519200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Red Devil", "COMMUNITY": "Red Devil", "SAWMILL_CO": 1.000000, "LAT": 61.761110, "LON": -157.312500 }, "geometry": { "type": "Point", "coordinates": [ -174242.575200, 1313605.606800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Sitka", "COMMUNITY": "Sitka", "SAWMILL_CO": 4.000000, "LAT": 57.053060, "LON": -135.330000 }, "geometry": { "type": "Point", "coordinates": [ 1115597.286700, 940837.217900 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Soldotna", "COMMUNITY": "Soldotna", "SAWMILL_CO": 2.000000, "LAT": 60.487780, "LON": -151.058330 }, "geometry": { "type": "Point", "coordinates": [ 161056.077100, 1170412.430400 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Sterling", "COMMUNITY": "Sterling", "SAWMILL_CO": 2.000000, "LAT": 60.537220, "LON": -150.764720 }, "geometry": { "type": "Point", "coordinates": [ 176849.772600, 1176683.068400 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Thorne Bay", "COMMUNITY": "Thorne Bay", "SAWMILL_CO": 4.000000, "LAT": 55.687780, "LON": -132.522220 }, "geometry": { "type": "Point", "coordinates": [ 1326272.738200, 847069.567200 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Tok", "COMMUNITY": "Tok", "SAWMILL_CO": 2.000000, "LAT": 63.336670, "LON": -142.985560 }, "geometry": { "type": "Point", "coordinates": [ 547885.111300, 1530928.570300 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Trapper Creek", "COMMUNITY": "Trapper Creek", "SAWMILL_CO": 3.000000, "LAT": 62.316670, "LON": -150.231390 }, "geometry": { "type": "Point", "coordinates": [ 194687.048200, 1376908.122800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Two Rivers", "COMMUNITY": "Two Rivers", "SAWMILL_CO": 1.000000, "LAT": 64.872220, "LON": -147.038330 }, "geometry": { "type": "Point", "coordinates": [ 329310.167200, 1674082.676800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Valdez", "COMMUNITY": "Valdez", "SAWMILL_CO": 2.000000, "LAT": 61.130830, "LON": -146.348330 }, "geometry": { "type": "Point", "coordinates": [ 409870.024900, 1262406.239800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Ward Cove", "COMMUNITY": "", "SAWMILL_CO": 2.000000, "LAT": 55.411944, "LON": -131.722778 }, "geometry": { "type": "Point", "coordinates": [ 1383924.921700, 834302.929800 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Wasilla", "COMMUNITY": "Wasilla", "SAWMILL_CO": 15.000000, "LAT": 61.581390, "LON": -149.439440 }, "geometry": { "type": "Point", "coordinates": [ 241182.516900, 1297444.565000 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Willow", "COMMUNITY": "Willow", "SAWMILL_CO": 3.000000, "LAT": 61.747220, "LON": -150.037500 }, "geometry": { "type": "Point", "coordinates": [ 208488.949000, 1313927.569000 ] } }
+,
+{ "type": "Feature", "properties": { "SAWMILL_TY": "Value Added", "CITY": "Wrangell", "COMMUNITY": "Wrangell", "SAWMILL_CO": 2.000000, "LAT": 56.470830, "LON": -132.376670 }, "geometry": { "type": "Point", "coordinates": [ 1307016.354800, 932699.975900 ] } }
+
+]
+}

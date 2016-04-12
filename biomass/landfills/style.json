@@ -1,0 +1,16 @@
+{
+  "default": {
+    "graphicName":"square",
+    "fillColor":"#078500",
+    "fillOpacity":0.5,
+    "pointRadius":8,
+    "strokeColor":"#089c12",
+    "strokeOpacity":0.8,
+    "strokeWidth":1
+  },
+  "selected": {
+    "pointRadius": 10,
+    "fillColor": "#eeff00",
+    "strokeColor": "#eeff00"
+  }
+}

@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "LOCATION": "Eagle River", "FACILITY": "Highland Road Landfill", "LAT": 61.322220, "LON": -149.566670 }, "geometry": { "type": "Point", "coordinates": [ 236397.718800, 1268067.598100 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Juneau", "FACILITY": "Capitol Landfill", "LAT": 58.301940, "LON": -134.419720 }, "geometry": { "type": "Point", "coordinates": [ 1127913.856900, 1089947.384600 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Unalaska", "FACILITY": "Unalaska Landfill", "LAT": 53.873610, "LON": -166.536670 }, "geometry": { "type": "Point", "coordinates": [ -821026.852500, 506555.564800 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Fairbanks", "FACILITY": "South Cushman Landfill", "LAT": 64.837780, "LON": -147.716390 }, "geometry": { "type": "Point", "coordinates": [ 297699.488800, 1667060.070600 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Fort Wainwright", "FACILITY": "Fort Wainwright Landfill", "LAT": 64.837780, "LON": -147.716390 }, "geometry": { "type": "Point", "coordinates": [ 297699.488800, 1667060.070600 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Kodiak", "FACILITY": "Kodiak Landfill", "LAT": 57.788890, "LON": -152.401900 }, "geometry": { "type": "Point", "coordinates": [ 94775.352300, 866282.680800 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Soldotna", "FACILITY": "Kenai Peninsula Borough Central Baling Facility", "LAT": 60.487780, "LON": -151.058330 }, "geometry": { "type": "Point", "coordinates": [ 161056.077100, 1170412.430400 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Deadhorse", "FACILITY": "Oxbow Landfill", "LAT": 70.255280, "LON": -148.337220 }, "geometry": { "type": "Point", "coordinates": [ 217275.285000, 2262083.249100 ] } }
+
+]
+}

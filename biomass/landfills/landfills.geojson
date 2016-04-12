@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LOCATION": "Eagle River", "FACILITY": "Highland Road Landfill", "LAT": 61.32222, "LON": -149.56667 }, "geometry": { "type": "Point", "coordinates": [ -149.56667000057638, 61.322220000412123 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Juneau", "FACILITY": "Capitol Landfill", "LAT": 58.30194, "LON": -134.41972 }, "geometry": { "type": "Point", "coordinates": [ -134.41971999960856, 58.301940000224633 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Unalaska", "FACILITY": "Unalaska Landfill", "LAT": 53.87361, "LON": -166.53667 }, "geometry": { "type": "Point", "coordinates": [ -166.536670000709989, 53.873610000334175 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Fairbanks", "FACILITY": "South Cushman Landfill", "LAT": 64.83778, "LON": -147.71639 }, "geometry": { "type": "Point", "coordinates": [ -147.716389999057839, 64.837780000331662 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Fort Wainwright", "FACILITY": "Fort Wainwright Landfill", "LAT": 64.83778, "LON": -147.71639 }, "geometry": { "type": "Point", "coordinates": [ -147.716389999057839, 64.837780000331662 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Kodiak", "FACILITY": "Kodiak Landfill", "LAT": 57.78889, "LON": -152.4019 }, "geometry": { "type": "Point", "coordinates": [ -152.40189999989272, 57.788890000116986 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Soldotna", "FACILITY": "Kenai Peninsula Borough Central Baling Facility", "LAT": 60.48778, "LON": -151.05833 }, "geometry": { "type": "Point", "coordinates": [ -151.058329999781989, 60.487779999623058 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Deadhorse", "FACILITY": "Oxbow Landfill", "LAT": 70.25528, "LON": -148.33722 }, "geometry": { "type": "Point", "coordinates": [ -148.337219999129701, 70.255279999634766 ] } }
+]
+}

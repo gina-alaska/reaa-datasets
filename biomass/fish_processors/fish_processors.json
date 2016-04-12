@@ -1,0 +1,93 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "COMMUNITY": "Adak", "LAT": 51.872500, "LON": -176.628610 }, "geometry": { "type": "Point", "coordinates": [ -1536282.030300, 471163.750300 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Akutan", "LAT": 54.135560, "LON": -165.773060 }, "geometry": { "type": "Point", "coordinates": [ -766425.867800, 526058.310400 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Alitak Bay", "LAT": 56.885280, "LON": -154.121670 }, "geometry": { "type": "Point", "coordinates": [ -7401.160800, 764265.244800 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Anchorage", "LAT": 61.218060, "LON": -149.900280 }, "geometry": { "type": "Point", "coordinates": [ 219350.923900, 1255297.140500 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Atka", "LAT": 52.196110, "LON": -174.200560 }, "geometry": { "type": "Point", "coordinates": [ -1366143.789600, 452095.175900 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Bethel", "LAT": 60.792220, "LON": -161.755830 }, "geometry": { "type": "Point", "coordinates": [ -419837.169700, 1225438.770900 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Chignik", "LAT": 56.295280, "LON": -158.402220 }, "geometry": { "type": "Point", "coordinates": [ -271949.978000, 707456.362700 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Cordova", "LAT": 60.542780, "LON": -145.757500 }, "geometry": { "type": "Point", "coordinates": [ 449503.885300, 1200926.958700 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Craig", "LAT": 55.476390, "LON": -133.148330 }, "geometry": { "type": "Point", "coordinates": [ 1296182.920300, 812340.936500 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Dillingham", "LAT": 59.039720, "LON": -158.457500 }, "geometry": { "type": "Point", "coordinates": [ -254804.553500, 1013471.595200 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Dutch Harbor", "LAT": 53.902780, "LON": -166.511110 }, "geometry": { "type": "Point", "coordinates": [ -818765.733600, 509424.075300 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Egegik", "LAT": 58.215560, "LON": -157.375830 }, "geometry": { "type": "Point", "coordinates": [ -197714.925900, 917832.871500 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Ekuk", "LAT": 58.814986, "LON": -158.557684 }, "geometry": { "type": "Point", "coordinates": [ -262245.196500, 988797.729200 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Emmonak", "LAT": 62.777780, "LON": -164.523060 }, "geometry": { "type": "Point", "coordinates": [ -533507.784600, 1465288.550000 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Excursion Inlet", "LAT": 58.421390, "LON": -135.436670 }, "geometry": { "type": "Point", "coordinates": [ 1067227.624100, 1085941.485800 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "False Pass", "LAT": 54.853940, "LON": -163.408830 }, "geometry": { "type": "Point", "coordinates": [ -602393.330800, 580599.355200 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Haines", "LAT": 59.235830, "LON": -135.445000 }, "geometry": { "type": "Point", "coordinates": [ 1041655.872600, 1173313.096100 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Homer", "LAT": 59.642500, "LON": -151.548330 }, "geometry": { "type": "Point", "coordinates": [ 137731.064200, 1074855.063200 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Hoonah", "LAT": 58.110000, "LON": -135.443610 }, "geometry": { "type": "Point", "coordinates": [ 1076434.907600, 1052386.101300 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Juneau", "LAT": 58.301940, "LON": -134.419720 }, "geometry": { "type": "Point", "coordinates": [ 1127913.856900, 1089947.384600 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Kasilof", "LAT": 60.336920, "LON": -151.276650 }, "geometry": { "type": "Point", "coordinates": [ 149801.770300, 1153043.992900 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Kenai", "LAT": 60.554440, "LON": -151.258330 }, "geometry": { "type": "Point", "coordinates": [ 149804.843900, 1177393.159200 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Ketchikan", "LAT": 55.342220, "LON": -131.646110 }, "geometry": { "type": "Point", "coordinates": [ 1391071.840200, 828572.838900 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "King Cove", "LAT": 55.061670, "LON": -162.310280 }, "geometry": { "type": "Point", "coordinates": [ -529565.444800, 594155.990700 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Klawock", "LAT": 55.552220, "LON": -133.095830 }, "geometry": { "type": "Point", "coordinates": [ 1296722.623600, 821399.692400 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Kodiak", "LAT": 57.788890, "LON": -152.401900 }, "geometry": { "type": "Point", "coordinates": [ 94775.352300, 866282.680800 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Larsen Bay", "LAT": 57.538540, "LON": -153.978440 }, "geometry": { "type": "Point", "coordinates": [ 1287.816400, 837183.354100 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Naknek", "LAT": 58.728330, "LON": -157.013890 }, "geometry": { "type": "Point", "coordinates": [ -173932.677000, 974056.997000 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Nikiski", "LAT": 60.716050, "LON": -151.340660 }, "geometry": { "type": "Point", "coordinates": [ 144585.157200, 1195271.299300 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Nome", "LAT": 64.501110, "LON": -165.406390 }, "geometry": { "type": "Point", "coordinates": [ -544971.035300, 1662326.083100 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Petersburg", "LAT": 56.812500, "LON": -132.955560 }, "geometry": { "type": "Point", "coordinates": [ 1261343.821500, 957674.519200 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Port Moller", "LAT": 55.988610, "LON": -160.576940 }, "geometry": { "type": "Point", "coordinates": [ -409308.839900, 684530.908400 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Quinhagak", "LAT": 59.748890, "LON": -161.915830 }, "geometry": { "type": "Point", "coordinates": [ -442333.040000, 1110602.537800 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Sand Point", "LAT": 55.339720, "LON": -160.497220 }, "geometry": { "type": "Point", "coordinates": [ -411426.017800, 612083.654500 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Seward", "LAT": 60.104170, "LON": -149.442220 }, "geometry": { "type": "Point", "coordinates": [ 252365.775700, 1132604.528700 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Sitka", "LAT": 57.053060, "LON": -135.330000 }, "geometry": { "type": "Point", "coordinates": [ 1115597.286700, 940837.217900 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "St Paul Island", "LAT": 57.122220, "LON": -170.275000 }, "geometry": { "type": "Point", "coordinates": [ -973709.784600, 910614.606200 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Togiak", "LAT": 59.061940, "LON": -160.376390 }, "geometry": { "type": "Point", "coordinates": [ -363969.769800, 1024887.706500 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Toksook Bay", "LAT": 60.530280, "LON": -165.102500 }, "geometry": { "type": "Point", "coordinates": [ -604439.927100, 1222240.983400 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Unalakleet", "LAT": 63.873060, "LON": -160.788060 }, "geometry": { "type": "Point", "coordinates": [ -332503.944600, 1562312.215100 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Valdez", "LAT": 61.130830, "LON": -146.348330 }, "geometry": { "type": "Point", "coordinates": [ 409870.024900, 1262406.239800 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Whittier", "LAT": 60.773060, "LON": -148.683890 }, "geometry": { "type": "Point", "coordinates": [ 288289.308000, 1210297.218600 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Wrangell", "LAT": 56.470830, "LON": -132.376670 }, "geometry": { "type": "Point", "coordinates": [ 1307016.354800, 932699.975900 ] } }
+,
+{ "type": "Feature", "properties": { "COMMUNITY": "Yakutat", "LAT": 59.546940, "LON": -139.727220 }, "geometry": { "type": "Point", "coordinates": [ 798124.217300, 1147723.351900 ] } }
+
+]
+}
