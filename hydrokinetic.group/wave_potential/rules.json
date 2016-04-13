@@ -1,0 +1,33 @@
+[{
+  "field": "APD_kWm",
+  "handler": "between",
+  "values": [25,30],
+  "style": {
+    "fillColor": "#8effca",
+    "strokeColor": "#8effca"
+  }
+},{
+  "field": "APD_kWm",
+  "handler": "between",
+  "values": [30,40],
+  "style": {
+    "fillColor": "#009387",
+    "strokeColor": "#009387"
+  }
+},{
+  "field": "APD_kWm",
+  "handler": "between",
+  "values": [40,50],
+  "style": {
+    "fillColor": "#297fff",
+    "strokeColor": "#297fff"
+  }
+},{
+  "field": "APD_kWm",
+  "handler": "between",
+  "values": [50,60],
+  "style": {
+    "fillColor": "#002a94",
+    "strokeColor": "#002a94"
+  }
+}]

@@ -1,0 +1,291 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "VOLCANO": "Adagdak", "LAT": 51.989800, "LON": -176.587050 }, "geometry": { "type": "Point", "coordinates": [ -1529237.889400, 482446.254100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Akutan", "LAT": 54.133080, "LON": -165.985550 }, "geometry": { "type": "Point", "coordinates": [ -780159.288900, 528261.245900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Alagogshak", "LAT": 58.157370, "LON": -155.398390 }, "geometry": { "type": "Point", "coordinates": [ -82066.737700, 907169.185200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Amak", "LAT": 55.417280, "LON": -163.146870 }, "geometry": { "type": "Point", "coordinates": [ -577117.309700, 640387.432600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Amchixtam Chaxsxii", "LAT": 51.847500, "LON": 179.829720 }, "geometry": { "type": "Point", "coordinates": [ -1766120.748700, 556658.692800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Amukta", "LAT": 52.494190, "LON": -171.254760 }, "geometry": { "type": "Point", "coordinates": [ -1163338.661000, 427718.819900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Andrew Bay volcano", "LAT": 51.968900, "LON": -176.632000 }, "geometry": { "type": "Point", "coordinates": [ -1532936.052200, 481301.193000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Aniakchak", "LAT": 56.905800, "LON": -158.209000 }, "geometry": { "type": "Point", "coordinates": [ -255716.332300, 774654.516300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Atka", "LAT": 52.330900, "LON": -174.139000 }, "geometry": { "type": "Point", "coordinates": [ -1357649.701100, 465082.789700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Augustine", "LAT": 59.362600, "LON": -153.435000 }, "geometry": { "type": "Point", "coordinates": [ 32013.923700, 1041151.457200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Basalt of Gertrude Creek", "LAT": 58.040000, "LON": -156.140000 }, "geometry": { "type": "Point", "coordinates": [ -125999.309600, 895222.659800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Behm Canal-Rudyerd Bay", "LAT": 55.319600, "LON": -131.051000 }, "geometry": { "type": "Point", "coordinates": [ 1427492.992100, 838827.269100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Black Peak", "LAT": 56.551200, "LON": -158.787000 }, "geometry": { "type": "Point", "coordinates": [ -293624.758600, 737570.917500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Blue Mtn", "LAT": 57.705100, "LON": -156.846700 }, "geometry": { "type": "Point", "coordinates": [ -169189.218000, 859410.605800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Bobrof", "LAT": 51.907200, "LON": -177.440900 }, "geometry": { "type": "Point", "coordinates": [ -1587834.219200, 493882.719400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Bogoslof", "LAT": 53.927200, "LON": -168.034400 }, "geometry": { "type": "Point", "coordinates": [ -916479.157300, 531985.830700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Buldir", "LAT": 52.348800, "LON": 175.909000 }, "geometry": { "type": "Point", "coordinates": [ -1989346.410800, 718182.973300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Buzzard Creek", "LAT": 64.061082, "LON": -148.431932 }, "geometry": { "type": "Point", "coordinates": [ 271141.690000, 1577671.240200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Camille Cone", "LAT": 65.533870, "LON": -163.389960 }, "geometry": { "type": "Point", "coordinates": [ -433117.811400, 1761220.000700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Capital", "LAT": 62.423800, "LON": -144.112700 }, "geometry": { "type": "Point", "coordinates": [ 507391.361900, 1421200.586000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Carlisle", "LAT": 52.890600, "LON": -170.057600 }, "geometry": { "type": "Point", "coordinates": [ -1073739.441200, 450136.978600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Chagulak", "LAT": 52.571400, "LON": -171.139500 }, "geometry": { "type": "Point", "coordinates": [ -1153557.171800, 433981.638600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Chiginagak", "LAT": 57.133480, "LON": -156.991470 }, "geometry": { "type": "Point", "coordinates": [ -180661.687900, 796029.462900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Churchill, Mt", "LAT": 61.418700, "LON": -141.715200 }, "geometry": { "type": "Point", "coordinates": [ 649830.233200, 1331239.988200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Cleveland", "LAT": 52.822200, "LON": -169.945000 }, "geometry": { "type": "Point", "coordinates": [ -1068159.991200, 440953.476300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Cone 3110", "LAT": 58.574500, "LON": -154.543500 }, "geometry": { "type": "Point", "coordinates": [ -31516.702400, 953045.668700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Cone 3601", "LAT": 58.544120, "LON": -154.515460 }, "geometry": { "type": "Point", "coordinates": [ -29917.093200, 949637.577400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Dana", "LAT": 55.642050, "LON": -161.215510 }, "geometry": { "type": "Point", "coordinates": [ -453088.288700, 650260.260700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Davidof", "LAT": 51.954200, "LON": 178.326000 }, "geometry": { "type": "Point", "coordinates": [ -1857050.247800, 608535.412900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Denison", "LAT": 58.417300, "LON": -154.451000 }, "geometry": { "type": "Point", "coordinates": [ -26272.167200, 935438.199700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Devils Desk", "LAT": 58.475300, "LON": -154.300100 }, "geometry": { "type": "Point", "coordinates": [ -17452.554200, 941869.929200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Double Glacier", "LAT": 60.716141, "LON": -152.668370 }, "geometry": { "type": "Point", "coordinates": [ 72413.437000, 1193112.250100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Douglas", "LAT": 58.859600, "LON": -153.535100 }, "geometry": { "type": "Point", "coordinates": [ 26735.825400, 984875.921800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Drum", "LAT": 62.115900, "LON": -144.639900 }, "geometry": { "type": "Point", "coordinates": [ 485357.341200, 1383194.283900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Duncan Canal", "LAT": 56.499600, "LON": -133.102000 }, "geometry": { "type": "Point", "coordinates": [ 1263663.980400, 921707.695600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Dutton", "LAT": 55.186700, "LON": -162.274400 }, "geometry": { "type": "Point", "coordinates": [ -525560.865700, 607683.912300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Edgecumbe", "LAT": 57.050900, "LON": -135.761100 }, "geometry": { "type": "Point", "coordinates": [ 1090561.843800, 933444.834700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Emmons Lake Volcanic Center", "LAT": 55.340900, "LON": -162.072600 }, "geometry": { "type": "Point", "coordinates": [ -510724.932000, 623152.286000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Espenberg", "LAT": 66.349300, "LON": -164.333000 }, "geometry": { "type": "Point", "coordinates": [ -462217.754500, 1857330.381800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Fisher", "LAT": 54.669200, "LON": -164.352400 }, "geometry": { "type": "Point", "coordinates": [ -665528.912300, 569274.960700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Folsoms Bluff", "LAT": 58.408810, "LON": -155.215160 }, "geometry": { "type": "Point", "coordinates": [ -70800.841300, 935048.014900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Fourpeaked", "LAT": 58.770300, "LON": -153.673800 }, "geometry": { "type": "Point", "coordinates": [ 18808.465400, 974846.861200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Frosty", "LAT": 55.067300, "LON": -162.835400 }, "geometry": { "type": "Point", "coordinates": [ -562753.375500, 599096.160700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Gareloi", "LAT": 51.788870, "LON": -178.793680 }, "geometry": { "type": "Point", "coordinates": [ -1680073.049200, 514922.058500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Gas Rocks, the", "LAT": 57.853300, "LON": -156.494000 }, "geometry": { "type": "Point", "coordinates": [ -147616.116800, 875108.734900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Gilbert", "LAT": 54.252200, "LON": -165.660500 }, "geometry": { "type": "Point", "coordinates": [ -756908.728600, 537534.411800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Gordon", "LAT": 62.131200, "LON": -143.088300 }, "geometry": { "type": "Point", "coordinates": [ 564860.776300, 1397154.313300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Gosling Cone", "LAT": 65.473750, "LON": -163.247410 }, "geometry": { "type": "Point", "coordinates": [ -427514.982900, 1753665.262900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Great Sitkin", "LAT": 52.076500, "LON": -176.110900 }, "geometry": { "type": "Point", "coordinates": [ -1495076.353000, 480667.029300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Griggs", "LAT": 58.357200, "LON": -155.103700 }, "geometry": { "type": "Point", "coordinates": [ -64403.135700, 929168.268900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Hayes", "LAT": 61.599100, "LON": -152.418200 }, "geometry": { "type": "Point", "coordinates": [ 83663.254500, 1292137.160100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Herbert", "LAT": 52.741000, "LON": -170.113000 }, "geometry": { "type": "Point", "coordinates": [ -1081357.386700, 434927.976300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Iliamna", "LAT": 60.031900, "LON": -153.091800 }, "geometry": { "type": "Point", "coordinates": [ 50435.788700, 1116203.653800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Imuruk Lake", "LAT": 65.600000, "LON": -163.920000 }, "geometry": { "type": "Point", "coordinates": [ -456292.938100, 1772057.111700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Ingakslugwat Hills", "LAT": 61.430000, "LON": -164.470000 }, "geometry": { "type": "Point", "coordinates": [ -554500.815200, 1316029.151500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Ingrisarak Mtn", "LAT": 61.515270, "LON": -165.256380 }, "geometry": { "type": "Point", "coordinates": [ -594154.067000, 1332239.439600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Iron Trig cone", "LAT": 58.642260, "LON": -154.470590 }, "geometry": { "type": "Point", "coordinates": [ -27235.181400, 960586.214900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Isanotski", "LAT": 54.767990, "LON": -163.729040 }, "geometry": { "type": "Point", "coordinates": [ -624146.422900, 574089.891700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Jarvis", "LAT": 62.023300, "LON": -143.620100 }, "geometry": { "type": "Point", "coordinates": [ 539439.824200, 1380822.030100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Jumbo Dome", "LAT": 63.975000, "LON": -148.694440 }, "geometry": { "type": "Point", "coordinates": [ 259153.525800, 1567044.402300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kagamil", "LAT": 52.973470, "LON": -169.717370 }, "geometry": { "type": "Point", "coordinates": [ -1049264.566800, 453630.184800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kaguyak", "LAT": 58.611300, "LON": -154.024500 }, "geometry": { "type": "Point", "coordinates": [ -1419.214700, 957029.777900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kanaga", "LAT": 51.924200, "LON": -177.162300 }, "geometry": { "type": "Point", "coordinates": [ -1569095.662000, 489028.361600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kasatochi", "LAT": 52.169300, "LON": -175.511300 }, "geometry": { "type": "Point", "coordinates": [ -1452710.544900, 477088.916100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Katmai", "LAT": 58.279000, "LON": -154.953300 }, "geometry": { "type": "Point", "coordinates": [ -55753.067200, 920295.197600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kejulik", "LAT": 58.027210, "LON": -155.664190 }, "geometry": { "type": "Point", "coordinates": [ -98026.986100, 892991.860900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kialagvik", "LAT": 57.201900, "LON": -156.746700 }, "geometry": { "type": "Point", "coordinates": [ -165572.483700, 803021.842300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kiska", "LAT": 52.103100, "LON": 177.603500 }, "geometry": { "type": "Point", "coordinates": [ -1895745.588800, 643990.931100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Klawasi Group", "LAT": 62.096200, "LON": -145.085300 }, "geometry": { "type": "Point", "coordinates": [ 462698.829300, 1377833.075000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Knob 1000", "LAT": 58.589470, "LON": -154.558040 }, "geometry": { "type": "Point", "coordinates": [ -32345.776200, 954725.655400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kochilagok Hill", "LAT": 61.638000, "LON": -164.414000 }, "geometry": { "type": "Point", "coordinates": [ -547926.514200, 1338539.990500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Koniuji", "LAT": 52.221440, "LON": -175.131820 }, "geometry": { "type": "Point", "coordinates": [ -1426155.343200, 474344.552300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kookooligit Mountains", "LAT": 63.599100, "LON": -170.433000 }, "geometry": { "type": "Point", "coordinates": [ -805642.176900, 1614894.602100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Korovin", "LAT": 52.379340, "LON": -174.154800 }, "geometry": { "type": "Point", "coordinates": [ -1357077.827300, 470528.300300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Koyuk-Buckland volcanics", "LAT": 65.650000, "LON": -160.500000 }, "geometry": { "type": "Point", "coordinates": [ -299073.963700, 1758130.694900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kukak", "LAT": 58.452800, "LON": -154.357300 }, "geometry": { "type": "Point", "coordinates": [ -20792.564000, 939372.022100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Kupreanof", "LAT": 56.012600, "LON": -159.791200 }, "geometry": { "type": "Point", "coordinates": [ -360308.693500, 682640.819500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Little Sitkin", "LAT": 51.953100, "LON": 178.535600 }, "geometry": { "type": "Point", "coordinates": [ -1843848.555900, 602583.754000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Lone basalt", "LAT": 57.634820, "LON": -156.993320 }, "geometry": { "type": "Point", "coordinates": [ -178251.246400, 851952.782700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Lost Jim Cone", "LAT": 65.487300, "LON": -163.297720 }, "geometry": { "type": "Point", "coordinates": [ -429615.044500, 1755484.664700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Mageik", "LAT": 58.194600, "LON": -155.254400 }, "geometry": { "type": "Point", "coordinates": [ -73538.954400, 911159.300200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Makushin", "LAT": 53.887070, "LON": -166.932020 }, "geometry": { "type": "Point", "coordinates": [ -846305.927400, 512986.783200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Martin", "LAT": 58.169200, "LON": -155.356600 }, "geometry": { "type": "Point", "coordinates": [ -79587.574100, 908439.768200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Moffett", "LAT": 51.937000, "LON": -176.741000 }, "geometry": { "type": "Point", "coordinates": [ -1541214.807700, 480496.074200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Morzhovoi", "LAT": 54.999100, "LON": -162.822000 }, "geometry": { "type": "Point", "coordinates": [ -562910.556400, 591456.951100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Nelson Island", "LAT": 60.450000, "LON": -164.660000 }, "geometry": { "type": "Point", "coordinates": [ -581996.124600, 1209429.596900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Novarupta", "LAT": 58.265400, "LON": -155.159100 }, "geometry": { "type": "Point", "coordinates": [ -67814.540000, 918967.238300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Nunivak Island", "LAT": 60.099000, "LON": -166.496000 }, "geometry": { "type": "Point", "coordinates": [ -688480.451100, 1188327.539100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Nushkolik Mountain volcanic field", "LAT": 61.570000, "LON": -164.910000 }, "geometry": { "type": "Point", "coordinates": [ -575037.215500, 1335226.300200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Okmok", "LAT": 53.419000, "LON": -168.132000 }, "geometry": { "type": "Point", "coordinates": [ -934679.020100, 478157.682000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Pavlof", "LAT": 55.417300, "LON": -161.893700 }, "geometry": { "type": "Point", "coordinates": [ -498451.416200, 630241.403500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Pavlof Sister", "LAT": 55.456900, "LON": -161.854400 }, "geometry": { "type": "Point", "coordinates": [ -495460.915500, 634327.546300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Prindle Volcano", "LAT": 63.719600, "LON": -141.622300 }, "geometry": { "type": "Point", "coordinates": [ 607027.354800, 1584899.616400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Rainbow River cone", "LAT": 58.499440, "LON": -154.681770 }, "geometry": { "type": "Point", "coordinates": [ -39620.621100, 944731.593200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Recheshnoi", "LAT": 53.153600, "LON": -168.538200 }, "geometry": { "type": "Point", "coordinates": [ -967518.453200, 455197.157800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Redoubt", "LAT": 60.485200, "LON": -152.743800 }, "geometry": { "type": "Point", "coordinates": [ 68800.649100, 1167207.025900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Roundtop", "LAT": 54.799200, "LON": -163.591400 }, "geometry": { "type": "Point", "coordinates": [ -614878.453900, 576242.515700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Sanford", "LAT": 62.213300, "LON": -144.129500 }, "geometry": { "type": "Point", "coordinates": [ 510020.750900, 1397796.280200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Seguam", "LAT": 52.316000, "LON": -172.510000 }, "geometry": { "type": "Point", "coordinates": [ -1251275.905800, 431502.257700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Segula", "LAT": 52.013800, "LON": 178.134000 }, "geometry": { "type": "Point", "coordinates": [ -1866483.453500, 619948.736100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Semisopochnoi", "LAT": 51.928800, "LON": 179.597700 }, "geometry": { "type": "Point", "coordinates": [ -1777464.290700, 571153.344900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Sergief", "LAT": 52.053300, "LON": -174.952100 }, "geometry": { "type": "Point", "coordinates": [ -1420211.842400, 452796.546500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Shishaldin", "LAT": 54.755400, "LON": -163.971100 }, "geometry": { "type": "Point", "coordinates": [ -639769.419600, 575007.624200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Skookum Creek", "LAT": 62.399600, "LON": -143.137100 }, "geometry": { "type": "Point", "coordinates": [ 557470.300000, 1426349.568400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Snowy", "LAT": 58.333600, "LON": -154.685900 }, "geometry": { "type": "Point", "coordinates": [ -40052.024300, 926202.811300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Spurr", "LAT": 61.298900, "LON": -152.253900 }, "geometry": { "type": "Point", "coordinates": [ 93234.022000, 1258791.730000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "St. George volcanic field", "LAT": 56.580000, "LON": -169.630000 }, "geometry": { "type": "Point", "coordinates": [ -949959.866500, 842503.200400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "St. Michael", "LAT": 63.449300, "LON": -162.123000 }, "geometry": { "type": "Point", "coordinates": [ -403369.546500, 1522673.054500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "St. Paul Island", "LAT": 57.180000, "LON": -170.300000 }, "geometry": { "type": "Point", "coordinates": [ -973608.185500, 917237.855600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Steller", "LAT": 58.430100, "LON": -154.390300 }, "geometry": { "type": "Point", "coordinates": [ -22727.839000, 936846.156500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Stepovak Bay 1", "LAT": 55.868100, "LON": -160.095600 }, "geometry": { "type": "Point", "coordinates": [ -380671.891100, 668296.103300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Stepovak Bay 2", "LAT": 55.912500, "LON": -160.041000 }, "geometry": { "type": "Point", "coordinates": [ -376822.007300, 672912.984600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Stepovak Bay 3", "LAT": 55.929200, "LON": -160.002000 }, "geometry": { "type": "Point", "coordinates": [ -374227.930400, 674546.300500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Stepovak Bay 4", "LAT": 55.952000, "LON": -159.958000 }, "geometry": { "type": "Point", "coordinates": [ -371264.195800, 676830.545100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Submarine 001", "LAT": 53.146500, "LON": -169.379300 }, "geometry": { "type": "Point", "coordinates": [ -1022698.478300, 467032.365400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Submarine 002", "LAT": 53.297800, "LON": -169.760400 }, "geometry": { "type": "Point", "coordinates": [ -1043621.319700, 489295.324300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Submarine 003", "LAT": 53.119800, "LON": -170.227900 }, "geometry": { "type": "Point", "coordinates": [ -1078748.482400, 477579.053500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Submarine 004", "LAT": 52.940500, "LON": -171.411600 }, "geometry": { "type": "Point", "coordinates": [ -1160843.363000, 478278.241700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Submarine 005", "LAT": 52.801200, "LON": -171.924600 }, "geometry": { "type": "Point", "coordinates": [ -1198343.140000, 472482.232700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Submarine 006", "LAT": 52.764900, "LON": -171.875200 }, "geometry": { "type": "Point", "coordinates": [ -1196191.324600, 467711.193000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Suemez Island", "LAT": 55.226800, "LON": -133.403200 }, "geometry": { "type": "Point", "coordinates": [ 1289338.434400, 780922.773200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Table Top Mtn", "LAT": 53.967100, "LON": -166.679000 }, "geometry": { "type": "Point", "coordinates": [ -828263.624500, 518525.969000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Takawangha", "LAT": 51.867000, "LON": -178.027000 }, "geometry": { "type": "Point", "coordinates": [ -1627385.623500, 503901.284900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Tana (east)", "LAT": 52.839000, "LON": -169.758000 }, "geometry": { "type": "Point", "coordinates": [ -1055432.236700, 439774.195500 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Tanada Peak", "LAT": 62.302000, "LON": -143.506000 }, "geometry": { "type": "Point", "coordinates": [ 540416.599600, 1412528.747100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Tanaga", "LAT": 51.884000, "LON": -178.143000 }, "geometry": { "type": "Point", "coordinates": [ -1634224.969000, 508509.351300 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Tlevak Strait", "LAT": 55.249600, "LON": -133.302000 }, "geometry": { "type": "Point", "coordinates": [ 1294688.931900, 785308.933600 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Togiak volcanics", "LAT": 59.270000, "LON": -160.050000 }, "geometry": { "type": "Point", "coordinates": [ -343276.002500, 1046308.898100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Trader Mtn", "LAT": 55.563770, "LON": -161.945230 }, "geometry": { "type": "Point", "coordinates": [ -499742.340200, 646829.851100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Trident", "LAT": 58.234300, "LON": -155.102600 }, "geometry": { "type": "Point", "coordinates": [ -64566.941600, 915436.495400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Ugashik-Peulik", "LAT": 57.750300, "LON": -156.370000 }, "geometry": { "type": "Point", "coordinates": [ -140690.411300, 863342.816800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Ukinrek Maars", "LAT": 57.833800, "LON": -156.513900 }, "geometry": { "type": "Point", "coordinates": [ -148875.837100, 872976.595900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Uliaga", "LAT": 53.065000, "LON": -169.767000 }, "geometry": { "type": "Point", "coordinates": [ -1050126.902500, 464286.194100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Ungulungwak Hill-Ingrichuak Hill", "LAT": 61.170000, "LON": -164.250000 }, "geometry": { "type": "Point", "coordinates": [ -547413.464600, 1285477.586000 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Unimak 5270", "LAT": 54.803210, "LON": -163.659370 }, "geometry": { "type": "Point", "coordinates": [ -619140.482700, 577315.603400 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Unnamed (near Ukinrek Maars)", "LAT": 57.869000, "LON": -155.422000 }, "geometry": { "type": "Point", "coordinates": [ -84141.852300, 874991.166200 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Veniaminof", "LAT": 56.197900, "LON": -159.393100 }, "geometry": { "type": "Point", "coordinates": [ -333920.880800, 701146.520800 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Vsevidof", "LAT": 53.125600, "LON": -168.693700 }, "geometry": { "type": "Point", "coordinates": [ -978380.414100, 454442.867100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Westdahl", "LAT": 54.517100, "LON": -164.647600 }, "geometry": { "type": "Point", "coordinates": [ -687047.387400, 555570.346900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Wide Bay cone", "LAT": 53.961100, "LON": -166.615000 }, "geometry": { "type": "Point", "coordinates": [ -824259.228700, 517074.919700 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Wrangell", "LAT": 62.005720, "LON": -144.019350 }, "geometry": { "type": "Point", "coordinates": [ 519144.877700, 1375697.215100 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Yantarni", "LAT": 57.017900, "LON": -157.186400 }, "geometry": { "type": "Point", "coordinates": [ -193043.933000, 783691.173900 ] } }
+,
+{ "type": "Feature", "properties": { "VOLCANO": "Yunaska", "LAT": 52.643780, "LON": -170.651520 }, "geometry": { "type": "Point", "coordinates": [ -1119424.752700, 433397.057000 ] } }
+
+]
+}

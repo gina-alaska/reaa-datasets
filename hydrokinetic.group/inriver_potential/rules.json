@@ -1,0 +1,6 @@
+[
+  {"field":"POTENTIAL","handler":"=","values":["50-220"],"style":{"fillColor":"#ffd400","strokeColor":"#ffd400"}},
+  {"field":"POTENTIAL","handler":"=","values":["220-450"],"style":{"fillColor":"#ff9900","strokeColor":"#ff9900"}},
+  {"field":"POTENTIAL","handler":"=","values":["600-900"],"style":{"fillColor":"#ff0000","strokeColor":"#ff0000"}},
+  {"field":"POTENTIAL","handler":"=","values":["1500-1700"],"style":{"fillColor":"#7c0000","strokeColor":"#7c0000"}}
+]

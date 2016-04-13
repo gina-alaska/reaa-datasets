@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Motyka, R.J.</origin>
+				<origin>Moorman, M.A.</origin>
+				<origin>Liss, S.A.</origin>
+				<pubdate>1983</pubdate>
+				<title>Geothermal Resources of Alaska</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>Miscellaneous Publication</sername>
+					<issue>MP 8</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Fairbanks, Alaska - USA</pubplace>
+					<publish>State of Alaska, Department of Natural Resources, Division of Geological &amp; Geophysical Surveys</publish>
+				</pubinfo>
+				<othercit>1 sheet, scale 1:2,500,000</othercit>
+				<onlink>http://www.dggs.dnr.state.ak.us/pubs/pubs?reqtype=citation&amp;ID=671</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Between 1979 and 1982, the Alaska Division of Geological &amp; Geophysical Surveys (DGGS) and the Geophysical Institute, University of Alaska Fairbanks, undertook an assessment of the states geothermal resources under a program jointly sponsored by the U.S. Department of Energy and the State of Alaska. During this period, reconnaissance investigations of more than 100 thermal spring sites and fumarole fields located in Alaska were conducted by DGGS.</abstract>
+			<purpose>Only a few geothermal areas in Alaska have thus far received any detailed investigation and, except for reconnaissance studies, most of the state's geothermal resources remain virtually unexplored. There has been a growing awareness, however, that geothermal resources can play a significant role in meeting the states energy needs, particularly in rural areas. The primary purpose of this map, therefore, is to aid potential users in development of geothermal resources in a manner beneficial for Alaska.</purpose>
+			<supplinf>
+The layers listed below are present as ArcGIS shape files. Attribute information for the following layers (entities) is included in this metadata file under the "Entity_and_Attribute_Information" section. Each layer is listed and described in detail under its own heading starting "Entity_Type_Label." Layers include:
+&gt;HeatFlow_points     geothermal gradient test hole
+&gt;Hotsprings_points     hotsprings
+&gt;ThermalH2O_poly     potential exploration area for geothermal resources
+&gt;VolcanicRocks    Quaternary or Quaternary-Tertiary volcanic rocks
+&gt;VolcanicVents_points    volcanic vents
+</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1983</begdate>
+					<enddate>2006</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>172.000000</westbc>
+				<eastbc>-124.000000</eastbc>
+				<northbc>71.450459</northbc>
+				<southbc>49.128799</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>geoscientificInformation</themekey>
+			</theme>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>Active Volcanoes</themekey>
+				<themekey>Aleutian Arc</themekey>
+				<themekey>Analyses</themekey>
+				<themekey>Chemistry</themekey>
+				<themekey>Chena Hot Springs</themekey>
+				<themekey>Copper Glacier Hot Springs</themekey>
+				<themekey>Energy Resources</themekey>
+				<themekey>Epithermal</themekey>
+				<themekey>Fumarole Chemistry</themekey>
+				<themekey>Gas Rocks Hot Springs</themekey>
+				<themekey>Geochemistry</themekey>
+				<themekey>Geologic</themekey>
+				<themekey>Geologic Hazards</themekey>
+				<themekey>Geologic Map</themekey>
+				<themekey>Geology</themekey>
+				<themekey>Geothermal</themekey>
+				<themekey>Geyser Bight Hot Springs</themekey>
+				<themekey>Granite Mountain Hot Springs</themekey>
+				<themekey>Ground Water</themekey>
+				<themekey>Ground Water Chemistry</themekey>
+				<themekey>Hague Hot Springs</themekey>
+				<themekey>Heat Flow Study</themekey>
+				<themekey>Hornor Hot Springs</themekey>
+				<themekey>Hot Springs</themekey>
+				<themekey>Hot Springs Deposit</themekey>
+				<themekey>Hydrothermal Deposit</themekey>
+				<themekey>Mineral Spring</themekey>
+				<themekey>Thermal History</themekey>
+				<themekey>Volcanic Rocks</themekey>
+				<themekey>Volcanoes</themekey>
+				<themekey>Water Chemistry</themekey>
+				<themekey>Well Chemistry</themekey>
+				<themekey>Well Logs</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Adak Hot Springs</placekey>
+				<placekey>Adak Quadrangle</placekey>
+				<placekey>Akutan</placekey>
+				<placekey>Akutan Volcano</placekey>
+				<placekey>Akutan Volcano Hot Springs</placekey>
+				<placekey>Alaska Peninsula</placekey>
+				<placekey>Aleutian Islands</placekey>
+				<placekey>Aleutian Peninsula</placekey>
+				<placekey>Andrew Bay Hot Springs</placekey>
+				<placekey>Andrew Bay Volcano</placekey>
+				<placekey>Aniakchak</placekey>
+				<placekey>Aniakchak Caldera</placekey>
+				<placekey>Aniakchak Hot Springs</placekey>
+				<placekey>Augustine</placekey>
+				<placekey>Augustine Hot Springs</placekey>
+				<placekey>Augustine Volcano</placekey>
+				<placekey>Bailey Bay Hot Springs</placekey>
+				<placekey>Baker Hot Springs</placekey>
+				<placekey>Baranof Hot Springs</placekey>
+				<placekey>Barnes Lake Hot Springs</placekey>
+				<placekey>Bogoslof Hot Springs</placekey>
+				<placekey>Bradfield Canal Hot Springs</placekey>
+				<placekey>Cheeneetnuk Hot Springs</placekey>
+				<placekey>Chetasline Vent</placekey>
+				<placekey>Chief Shakes Hot Springs</placekey>
+				<placekey>Chiginagak Hot Springs</placekey>
+				<placekey>Chuginadak Hot Springs</placekey>
+				<placekey>Chuilnuk Hot Springs</placekey>
+				<placekey>Clear Creek Hot Springs</placekey>
+				<placekey>Cold Bay Hot Springs</placekey>
+				<placekey>Cook Inlet</placekey>
+				<placekey>Crater Peak Hot Springs</placekey>
+				<placekey>Dall Hot Springs</placekey>
+				<placekey>Dulbai Hot Springs</placekey>
+				<placekey>Egg Island Hot Springs</placekey>
+				<placekey>Emmons Lake Hot Springs</placekey>
+				<placekey>False Pass Hot Springs</placekey>
+				<placekey>Fish Bay Hot Springs</placekey>
+				<placekey>Fowler Hot Springs</placekey>
+				<placekey>Glacier Valley Hot Springs</placekey>
+				<placekey>Goddard Hot Springs</placekey>
+				<placekey>Great Sitkin Hot Springs</placekey>
+				<placekey>Hawk Hot Springs</placekey>
+				<placekey>Hot Springs Bay Hot Springs</placekey>
+				<placekey>Hot Springs Cove Hot Springs</placekey>
+				<placekey>Hutlinana Hot Springs</placekey>
+				<placekey>Iliamna Hot Springs</placekey>
+				<placekey>Inmachuk Hot Springs</placekey>
+				<placekey>Ishtalitna Hot Springs</placekey>
+				<placekey>Kagamil Hot Springs</placekey>
+				<placekey>Kanaga Hot Springs</placekey>
+				<placekey>Kanuti Hot Springs</placekey>
+				<placekey>Katmai Caldera</placekey>
+				<placekey>Katmai Hot Springs</placekey>
+				<placekey>Kenai Peninsula</placekey>
+				<placekey>Kenmore Hot Springs</placekey>
+				<placekey>Kilo Hot Springs</placekey>
+				<placekey>Kiquga Hot Springs</placekey>
+				<placekey>Kliuchef Hot Springs</placekey>
+				<placekey>Korovin Hot Springs</placekey>
+				<placekey>Kukak Hot Springs</placekey>
+				<placekey>Kupreanoff Hot Springs</placekey>
+				<placekey>Lava Creek Hot Springs</placekey>
+				<placekey>Little Melozitna Hot Springs</placekey>
+				<placekey>Little Sitkin Hot Springs</placekey>
+				<placekey>Lower Division Hot Springs</placekey>
+				<placekey>Lower Glacier Valley Hot Springs</placekey>
+				<placekey>Lower Klawasi Hot Springs</placekey>
+				<placekey>Lower Ray Hot Springs</placekey>
+				<placekey>Mageik Creek Hot Springs</placekey>
+				<placekey>Makushin</placekey>
+				<placekey>Makushin Valley Hot Springs</placekey>
+				<placekey>Makushin Volcano</placekey>
+				<placekey>Manley Hot Springs</placekey>
+				<placekey>Melozi Hot Springs</placekey>
+				<placekey>Milky River Hot Springs</placekey>
+				<placekey>Mother Goose Hot Springs</placekey>
+				<placekey>Mount Finch Hot Springs</placekey>
+				<placekey>Mount Rynda Hot Springs</placekey>
+				<placekey>Mount Spurr Hot Springs</placekey>
+				<placekey>Mount Wrangell</placekey>
+				<placekey>Mount Wrangell Crater</placekey>
+				<placekey>Neka Bay Hot Springs</placekey>
+				<placekey>North Peril Strait Hot Springs</placekey>
+				<placekey>Nushkolik Mountain Volcanic Field</placekey>
+				<placekey>Nylen Hot Springs</placekey>
+				<placekey>Okmok Hot Springs</placekey>
+				<placekey>Okmok Volcano</placekey>
+				<placekey>Ophir Hot Springs</placekey>
+				<placekey>Partov Cove Hot Springs</placekey>
+				<placekey>Pavlof</placekey>
+				<placekey>Pavlov Hot Springs</placekey>
+				<placekey>Pilgrim Hot Springs</placekey>
+				<placekey>Pogromni Hot Springs</placekey>
+				<placekey>Port Moller Hot Springs</placekey>
+				<placekey>Port Moller</placekey>
+				<placekey>Red Hill Spring Hot Springs</placekey>
+				<placekey>Redoubt</placekey>
+				<placekey>Redoubt Volcano</placekey>
+				<placekey>Reed Hot Springs</placekey>
+				<placekey>Seguam Hot Springs</placekey>
+				<placekey>Semisopochnoi Hot Springs</placekey>
+				<placekey>Serpentine Hot Springs</placekey>
+				<placekey>Seward Peninsula</placekey>
+				<placekey>South Hot Springs</placekey>
+				<placekey>Southcentral Alaska</placekey>
+				<placekey>Southeast Alaska</placekey>
+				<placekey>Southwest Alaska</placekey>
+				<placekey>Summer Bay Hot Springs</placekey>
+				<placekey>Sun Mountain Hot Springs</placekey>
+				<placekey>Tatlawiksuk Hot Springs</placekey>
+				<placekey>Tolovana Hot Springs</placekey>
+				<placekey>Tolovana Mining District</placekey>
+				<placekey>Tunalkten Lake Hot Springs</placekey>
+				<placekey>Twin Calderas</placekey>
+				<placekey>Twin Lakes Hot Springs</placekey>
+				<placekey>Ukinrek Hot Springs</placekey>
+				<placekey>Upper Division Hot Springs</placekey>
+				<placekey>Upper Glacier Valley Hot Springs</placekey>
+				<placekey>Upper Klawasi Hot Springs</placekey>
+				<placekey>Upper Ray Hot Springs</placekey>
+				<placekey>Valley of Ten Thousand Smokes</placekey>
+				<placekey>White Mountain Hot Springs</placekey>
+				<placekey>White Sulfur Hot Springs</placekey>
+				<placekey>Yukon-Kuskokwim Delta</placekey>
+			</place>
+		</keywords>
+		<accconst>This report, map, and/or dataset are available directly from the State of Alaska, Department of Natural Resources, Division of Geological &amp; Geophysical Surveys (see contact information below).</accconst>
+		<useconst>Any hard copies or published datasets utilizing these datasets shall clearly indicate their source. If the user has modified the data in any way, the user is obligated to describe the types of modifications the user has made. User specifically agrees not to misrepresent these datasets, nor to imply that changes made by the user were approved by the State of Alaska, Department of Natural Resources, Division of Geological &amp; Geophysical Surveys.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>State of Alaska, Department of Natural Resources, Division of Geological &amp; Geophysical Surveys</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Manager/Cartographer</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>3354 College Road</address>
+					<city>Fairbanks</city>
+					<state>AK</state>
+					<postal>99709-3707</postal>
+				</cntaddr>
+				<cntvoice>(907) 451-5029</cntvoice>
+				<cntvoice>(907) 451-5020</cntvoice>
+				<cntfax>(907) 451-5050</cntfax>
+				<cntemail>dggspubs@alaska.gov</cntemail>
+				<cntinst>You may view our web site at http://www.dggs.dnr.state.ak.us for the latest information on available data.  Please e-mail your questions and data requests when possible since our web site and e-mail address will remain current even if our phone number and mailing address change.</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Funding for this project was jointly supplied by the U.S. Department of Energy and the State of Alaska. Additional Acknowledgments: John W. Reeder of DGGS supplied information. Map produced by Ronald H. Smith, Cooperative Institute for Research in Environmental Sciences (CIRES), University of Colorado/NOAA, and Joy Ikelman, NGDC/NOAA, Boulder, Colorado, in cooperation with the Earth Science Laboratory/University of Utah Research Institute, Salt Lake City, Utah. Digital thermal well and spring data available from GEOTHERM Project, U.S. Geological Survey, 345 Middlefield Road, MS84, Menlo Park, California 94025.</datacred>
+		<native>Microsoft Windows XP SP2, ArcGIS 9.+, and any text editor.</native>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Precisions are listed in Table 1 of Motyka et al., 1980 quoted from Skougstad and other, (eds.) 1979.</attraccr>
+		</attracc>
+		<logic>Polygon topology is present on appropriate coverages; others are line or point coverages.</logic>
+		<complete>This dataset includes coverages that contain information about volcanic vents, geothermal gradient test holes, hotsprings, potential exploration areas for geothermal resources, and Quaternary or Quaternary-Tertiary volcanic rocks. This work includes reconnaissance of site geology and hydrology, investigation of thermal spring and fumarole characteristics including temperatures and flow rates, and geochemical sampling of thermal fluids. This map is based largely on information gathered from these reconnaissance studies plus additional information obtained from more detailed studies recently conducted at several of the more promising geothermal areas.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Location data were determined visually using topographic maps at a scale of 1:63,360 and 1:50,000 (nominal) scale, and color-infrared aerial photographs.</horizpar>
+				<qhorizpa>
+					<horizpav>100</horizpav>
+					<horizpae>Total potential horizontal error for surficial-geologic map features is estimated to be approximately 100 meters. Surficial-geologic map data have a horizontal positional accuracy dependent on: (1) the 1:50,000-scale (nominal) aerial photographs on which they are based, with an estimated potential error due to a pen line width of approximately 0.001 being equivalent to approximately 1.5 meters on the ground; (2) the accuracy of the human zoom transfer scope operator in tracing the linework from acetate overlays to topographic base maps, with an estimated error due to a pen line width of approximately 0.001 being equivalent to approximately 1.5 meters on the ground; (3) the accuracy of the zoom transfer process itself, error magnitude highly variable and unknown but potentially large; (4) the digitizing RMS error of 0.003 inches [input coverage units], which equates to approximately 5 meters on the ground for a 1:63,360-scale map; (5) the accuracy of the human operator digitizing the geologic linework from the topographic base maps, with an estimated error due to a pen line width of approximately 0.001 being equivalent to approximately 1.5 meters on the ground; and (6) the accuracy of the topographic maps.</horizpae>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Miller, T.P.</origin>
+						<pubdate>1973</pubdate>
+						<title>Distribution and chemical analyses of thermal springs in Alaska</title>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>Open-File Report</sername>
+							<issue>73-187</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Denver, Colorado</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>scale 1:2,500,000</othercit>
+						<onlink>http://www.dggs.dnr.state.ak.us/pubs/pubs?reqtype=citation&amp;ID=10981</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>2500000</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1973</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Miller, 1973</srccitea>
+				<srccontr>This publication is an earlier compilation of the State's geothermal resources which provided starting points for this compilation.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Markle, D.</origin>
+						<pubdate>1979</pubdate>
+						<title>Geothermal energy in Alaska, site data base and development status</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Klamath Falls, OR</pubplace>
+							<publish>OIT Geo-Heat Utilization Center</publish>
+						</pubinfo>
+						<othercit>Report Contract DE-AC03-79SF1049, 572 pp., 2 pl.</othercit>
+						<onlink>http://www.osti.gov/energycitations/servlets/purl/5166201-sLnJ3P/5166201.PDF</onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin>George Plafker (ed.)</origin>
+								<origin>H.C. Berg (ed.)</origin>
+								<pubdate>1994</pubdate>
+								<title>The Geology of Alaska</title>
+								<geoform>map</geoform>
+								<serinfo>
+									<sername>The Geology of North America</sername>
+									<issue>v. G1</issue>
+								</serinfo>
+								<pubinfo>
+									<pubplace>Boulder, Colorado</pubplace>
+									<publish>Geological Society of America</publish>
+								</pubinfo>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1979</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Markle, 1979</srccitea>
+				<srccontr>This publication is an earlier compilation of the State's geothermal resources which provided starting points for this compilation.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Lawver, L.A.</origin>
+						<origin>Lachenbruch, A.H.</origin>
+						<origin>Moses, T.H., Jr.</origin>
+						<pubdate>1979</pubdate>
+						<title>Status of regional heat-flow studies</title>
+						<geoform>map</geoform>
+						<othercit>p. B5-B7</othercit>
+						<lworkcit>
+							<citeinfo>
+								<origin>Johnson, K.M. (ed.)</origin>
+								<origin>Williams, J.R. (ed.)</origin>
+								<pubdate>1979</pubdate>
+								<title>The United States Geological Survey in Alaska; accomplishments during 1978</title>
+								<geoform>map</geoform>
+								<serinfo>
+									<sername>U.S. Geological Survey Circular</sername>
+									<issue>804-B</issue>
+								</serinfo>
+								<pubinfo>
+									<pubplace>Denver, Colorado</pubplace>
+									<publish>U.S. Geological Survey</publish>
+								</pubinfo>
+								<onlink>http://www.dggs.dnr.state.ak.us/pubs/pubs?reqtype=citation&amp;ID=13536</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1979</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Lawver et al., 1979</srccitea>
+				<srccontr>Heat flow data were provided by this publication.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Skougstad, M.W. (ed.)</origin>
+						<origin>Fishman, M.J. (ed.)</origin>
+						<origin>Friedman, L.C. (ed.)</origin>
+						<origin>Erdmann, D.E. (ed.)</origin>
+						<origin>Duncan, S.S. (ed.)</origin>
+						<pubdate>1979</pubdate>
+						<title>Methods for determination of inorganic substances in water and fluvial sediments</title>
+						<geoform>document</geoform>
+						<serinfo>
+							<sername>U.S. Geological Survey Techniques of Water Resources Investigations</sername>
+							<issue>Book 5</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Denver, Colorado</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>Chap. A1, 626 pp.</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1979</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Skougstad and others, 1979</srccitea>
+				<srccontr>Provided precision of DGGS water-chemistry analyses.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Motyka, R.J.</origin>
+						<origin>Moorman, M.A.</origin>
+						<origin>Reeder, J.W.</origin>
+						<pubdate>1980</pubdate>
+						<title>Assessment of thermal spring sites in southern southeastern Alaska - Preliminary results and evaluation</title>
+						<geoform>document</geoform>
+						<serinfo>
+							<sername>Alaska Open-File Report</sername>
+							<issue>AOF 127</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Fairbanks, Alaska</pubplace>
+							<publish>Alaska Division of Geological &amp; Geophysical Surveys</publish>
+						</pubinfo>
+						<othercit>75 pp.</othercit>
+						<onlink>http://www.dggs.dnr.state.ak.us/pubs/pubs?reqtype=citation&amp;ID=44</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1980</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Motyka et al., 1980</srccitea>
+				<srccontr>Standard procedures were used in collection and analysis of data.  Accuracy of the data and method of collection was extracted from this publication, including 1) laboratory analysis: methods used and precision and 2) field techniques and sampling procedures.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Presser, T. S.</origin>
+						<origin>Barnes, I.</origin>
+						<pubdate>1974</pubdate>
+						<title>Special techniques for determining the chemical properties of geothermal waters</title>
+						<geoform>document</geoform>
+						<serinfo>
+							<sername>U.S. Geological Survey Water-Resources Investigations</sername>
+							<issue>22-74</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Denver, Colorado</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>11 pp.</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1974</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Presser and Barnes, 1974</srccitea>
+				<srccontr>Water samples were collected, filtered, and treated following procedures described in this publication.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Map compilation: Between 1979 and 1982 the Alaska Division of Geological and Geophysical Surveys (DGGS) and the Geophysical Institute, University of Alaska, undertook an assessment of the State's geothermal resources under a program jointly sponsored by the U.S. Department of Energy and the State of Alaska. During this period reconnaissance investigations of over 100 thermal spring sites and fumarole fields located in Alaska were conducted by DGGS. This work included reconnaissance of site geology and hydrology, investigation of thermal spring and fumarole characteristics including temperatures and flow rates, and geochemical sampling of thermal fluids. This map is based largely on information gathered from these reconnaissance studies plus additional information obtained from more detailed studies recently conducted at several of the more promising geothermal areas. Additional background material was provided by previous investigations and compilations of the state's geothermal resources (Miller, 1973, Markle, 1979, Lawver et al., 1979)</procdesc>
+				<srcused>Miller, 1973</srcused>
+				<srcused>Markle, 1979</srcused>
+				<srcused>Lawver et al., 1979</srcused>
+				<procdate>1979</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Digital data compilation - Digital data was produced for this publication using the latitudes and longitudes provided in the chart on the printed publication.  Other information was digitized when needed.</procdesc>
+				<procdate>200608</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Field techniques and Sampling Procedures: All field techniques and sampling procedures are fully detailed in Motyka et al., 1980. A standard pattern of sample and data acquisition was followed at each thermal area visited. At site with multiple springs, water samples were normally obtained from the thermal spring with the highest temperature and greatest discharge. Water samples were collected, filtered, and treated following procedures described in Presser and Barnes (1974).</procdesc>
+				<srcused>Motyka et al., 1980</srcused>
+				<srcused>Presser and Barnes (1974)</srcused>
+				<procdate>1979</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Laboratory Analyses, Methods Used and Precision: Whenever possible, laboratory methods of determination used by DGGS were taken from the list of methods of choice for each chemical species as prescribed by Presser and Barnes (1974).  Details on instrumentation and laboratory methods can be found in Motyka et al., 1980.</procdesc>
+				<srcused>Presser and Barnes (1974)</srcused>
+				<srcused>Motyka et al., 1980</srcused>
+				<procdate>Unknown</procdate>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>55.00000</stdparll>
+						<stdparll>65.00000</stdparll>
+						<longcm>-154.00000</longcm>
+						<latprjo>50.00000</latprjo>
+						<feast>0</feast>
+						<fnorth>0</fnorth>
+					</albers>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.008192</absres>
+						<ordres>0.008192</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+					<pclname>VolcanicVents_points</pclname>
+				</planci>
+			</planar>
+			<planar>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>55.00000</stdparll>
+						<stdparll>65.00000</stdparll>
+						<longcm>-154.00000</longcm>
+						<latprjo>50.00000</latprjo>
+						<feast>0</feast>
+						<fnorth>0</fnorth>
+					</albers>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.008192</absres>
+						<ordres>0.008192</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+					<pclname>HeatFlow_points</pclname>
+				</planci>
+			</planar>
+			<planar>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>55.00000</stdparll>
+						<stdparll>65.00000</stdparll>
+						<longcm>-154.00000</longcm>
+						<latprjo>50.00000</latprjo>
+						<feast>0</feast>
+						<fnorth>0</fnorth>
+					</albers>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.008192</absres>
+						<ordres>0.008192</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+					<pclname>Hotsprings_points</pclname>
+				</planci>
+			</planar>
+			<planar>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>55.00000</stdparll>
+						<stdparll>65.00000</stdparll>
+						<longcm>-154.00000</longcm>
+						<latprjo>50.00000</latprjo>
+						<feast>0</feast>
+						<fnorth>0</fnorth>
+					</albers>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.004096</absres>
+						<ordres>0.004096</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+					<pclname>ThermalH2O_poly</pclname>
+				</planci>
+			</planar>
+			<planar>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>55.00000</stdparll>
+						<stdparll>65.00000</stdparll>
+						<longcm>-154.00000</longcm>
+						<latprjo>50.00000</latprjo>
+						<feast>0</feast>
+						<fnorth>0</fnorth>
+					</albers>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.004096</absres>
+						<ordres>0.004096</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+					<pclname>VolcanicRocks</pclname>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1927</horizdn>
+				<ellips>Clarke 1866</ellips>
+				<semiaxis>6378206.4</semiaxis>
+				<denflat>294.978698</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>VolcanicVents_points.shp</enttypl>
+				<enttypd>Object type is point, there are 170 rows associated with this entity, and the entity values refer to the location of volcanic vents. This feature was not assigned any user defined attribute.</enttypd>
+				<enttypds>Alaska Division of Geological &amp; Geophysical Surveys</enttypds>
+				<ealname>VolcanicVents_points</ealname>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>HeatFlow_points.shp</enttypl>
+				<enttypd>Object type is point, there are 14 rows associated with this entity, and the entity values refer to geothermal gradient test holes.</enttypd>
+				<enttypds>Alaska Division of Geological &amp; Geophysical Surveys</enttypds>
+				<ealname>HeatFlow_points</ealname>
+			</enttyp>
+			<attr>
+				<attrlabl>LATITUDE</attrlabl>
+				<attrdef>X</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>51.53</rdommin>
+						<rdommax>71.19</rdommax>
+						<attrunit>degrees</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LONGITUDE</attrlabl>
+				<attrdef>x</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-179.02</rdommin>
+						<rdommax>-132.34</rdommax>
+						<attrunit>degrees</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NUMBER_</attrlabl>
+				<attrdef>This number refers to the range of heat flow values in milliwatts/meter^2 shown for individual wells.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>50</rdommin>
+						<rdommax>100</rdommax>
+						<attrunit>milliwatts/meter^2</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SYMBOL</attrlabl>
+				<attrdef>Marker used to identify location of geothermal gradient test hole.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Marker.</edomvd>
+						<edomvds>Alaska Division of Geological &amp; Geophysical Surveys</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>Hotsprings_points.shp</enttypl>
+				<enttypd>Object type is point, there are 125 rows associated with this entity, and the entity values refer to the location of thermal springs and wells.</enttypd>
+				<enttypds>Alaska Division of Geological &amp; Geophysical Surveys</enttypds>
+				<ealname>Hotsprings_points</ealname>
+			</enttyp>
+			<attr>
+				<attrlabl>NUMBER_</attrlabl>
+				<attrdef>Unique number assigned to each thermal spring/well.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<udom>XX-YY; XX=AA (Aleutian Islands and Alaska Peninsula), SC (south-central Alaska), NC (north-central Alaska), SE (southeast Alaska), YY=unique sample identifier.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Name of thermal spring/well.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<udom>Unique name for each thermal spring/well.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LATITUDE</attrlabl>
+				<attrdef>Latitude of thermal spring/well location. When numerous springs are present, position is middle location.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>53.89</rdommin>
+						<rdommax>69.63</rdommax>
+						<attrunit>degrees</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LONGITUDE</attrlabl>
+				<attrdef>Longitude of thermal spring/well location. When numerous springs are present, position is middle location.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-179.63</rdommin>
+						<rdommax>-131.27</rdommax>
+						<attrunit>degrees</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TEMPERATUR</attrlabl>
+				<attrdef>Temperature of thermal spring/well in degrees Celsius.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>470</rdommax>
+						<attrunit>degrees Celsius</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HIGHEST_RE</attrlabl>
+				<attrdef>Temperature for hottest spring or spring with highest flow.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>470</rdommax>
+						<attrunit>degrees Celsius</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PH_FIELD_</attrlabl>
+				<attrdef>Ph of thermal spring/well from field measurement.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>9.6</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TOTAL_DISS</attrlabl>
+				<attrdef>Total dissolved solids (mg/L) (computed value).</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>42500</rdommax>
+						<attrunit>milligrams/Liter</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FLOW_IN_L_</attrlabl>
+				<attrdef>Flow rate of thermal spring/well in liters per minute (measured or estimated). In cases of multiple orifices, the flow rate reported is for the group as a whole.When numerous springs are present, position is middle location.  Temperature is given for hottest spring or spring with highest flow.  If no data is shown for a field, no data is available.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>7600</rdommax>
+						<attrunit>Liters/minute</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SURFACE_MA</attrlabl>
+				<attrdef>Surface manifestation.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<udom>Please see chart on printed publication for surface manifestation.  Surface manifestation includes fumaroles, springs, geysers, mudpots, wells, seeps, and vents.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Symbol</attrlabl>
+				<attrdef>Marker for thermal spring/well.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Thermal springs: Surface temperature unknown.</edomvd>
+						<edomvds>Alaska Division of Geological &amp; Geophysical Surveys</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Thermal springs: Surface temperature 50 degrees C or lower</edomvd>
+						<edomvds>Alaska Division of Geological &amp; Geophysical Surveys</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Thermal springs: Surface temperature higher than 50 degrees C</edomvd>
+						<edomvds>Alaska Division of Geological &amp; Geophysical Surveys</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Thermal wells: Surface temperature 50 degrees C or lower</edomvd>
+						<edomvds>Alaska Division of Geological &amp; Geophysical Surveys</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Thermal wells: Surface temperature higher than 50 degrees C</edomvd>
+						<edomvds>Alaska Division of Geological &amp; Geophysical Surveys</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Heat flow: Geothermal gradient test hole (range of heat flow values in milliwatts/square meter shown for individual wells).</edomvd>
+						<edomvds>Alaska Division of Geological &amp; Geophysical Surveys</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Notes</attrlabl>
+				<attrdef>More information for individual thermal spring/well.</attrdef>
+				<attrdefs>Alaska Division of Geological &amp; Geophysical Surveys</attrdefs>
+				<attrdomv>
+					<udom>Text box on printed map with auxiliary notes on particular locations.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>ThermalH2O_poly.shp</enttypl>
+				<enttypd>Object type is vector, there are 35 rows associated with this entity, and the entity values refer to those regions of Alaska favorable for the discovery at shallow depth (less than 1000 m) of thermal water of sufficient temperature for direct heat applications. This feature was not assigned any user defined attribute.</enttypd>
+				<enttypds>Alaska Division of Geological &amp; Geophysical Surveys</enttypds>
+				<ealname>ThermalH2O_poly</ealname>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>VolcanicRocks.shp</enttypl>
+				<enttypd>Object type is vector, there are 74 rows associated with this entity, and the entity values refer to x. This feature was not assigned any user defined attribute.</enttypd>
+				<enttypds>Alaska Division of Geological &amp; Geophysical Surveys</enttypds>
+				<ealname>VolcanicRocks</ealname>
+			</enttyp>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>State of Alaska, Department of Natural Resources, Division of Geological &amp; Geophysical Surveys</cntorg>
+				</cntorgp>
+				<cntpos>Natural Resource Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>3354 College Road</address>
+					<city>Fairbanks</city>
+					<state>AK</state>
+					<postal>99709-3707</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>907-451-5020</cntvoice>
+				<cnttdd>None available.</cnttdd>
+				<cntfax>907-451-5050</cntfax>
+				<cntemail>dggspubs@alaska.gov</cntemail>
+				<hours>8 am to 4:30 pm, Monday through Friday, except State holidays</hours>
+				<cntinst>Please view our web site (http://www.dggs.dnr.state.ak.us) for the latest information on available data. Please contact us using the e-mail address provided above when possible.</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>Miscellaneous Publication 8</resdesc>
+		<distliab>The State of Alaska makes no express or implied warranties (including warranties of merchantability and fitness) with respect to the character, function, or capabilities of the electronic services or products or their appropriateness for any user's purposes. In no event will the State of Alaska be liable for any incidental, indirect, special, consequential, or other damages suffered by the user or any other person or entity whether from the use of the electronic services or products, any failure thereof, or otherwise, and in no event will the State of Alaska's liability to the requester or anyone else exceed the fee paid for the electronic service or product.</distliab>
+		<stdorder>
+			<nondig>Current publication is available on paper. To purchase this or other printed reports and maps, contact DGGS by phone (907-451-5020), e-mail (dggspubs@alaska.gov), or fax (907-451-5050). Payment accepted: Cash, check, money order, VISA, or MasterCard.</nondig>
+			<fees>Printed publication can be purchased for $5.00 (contact information below) plus shipping if mailed.</fees>
+		</stdorder>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>PDF</formname>
+					<formvern>1.6</formvern>
+					<filedec>No compression applied</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.dggs.dnr.state.ak.us/pubs/pubs?reqtype=citation&amp;ID=671</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ArcGIS Shapefile</formname>
+					<formvern>ESRI ArcGIS 9.x</formvern>
+					<filedec>No compression applied</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.dggs.dnr.state.ak.us/pubs/pubs?reqtype=citation&amp;ID=671</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+					<offoptn>
+						<offmedia>CD-ROM</offmedia>
+						<recfmt>Joliet</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>Digital files on CD-ROM are available for $10.00 (contact information below). No fees charged for downloaded files.</fees>
+			<ordering>Order by phone (907-451-5020), e-mail (dggspubs@alaska.gov), or fax (907-451-5050). The DGGS web site (http://www.dggs.dnr.state.ak.us/) has a list of electronic data available and an order form that can be printed. Payment accepted: Cash, check, money order, VISA, or MasterCard.</ordering>
+			<turnarnd>Digital downloads: less than 30 minutes for most files. Offline CD/DVD-ROMs: 1-2 weeks unless special arrangements are made and an express fee is paid.</turnarnd>
+		</stdorder>
+		<techpreq>Please check the MapInfo web site (http://www.mapinfo.com/) for the latest documentation on importing ESRI shape files.</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd>20080506</metd>
+		<metrd>20080506</metrd>
+		<metfrd>20090319</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>State of Alaska, Department of Natural Resources, Division of Geological &amp; Geophysical Surveys</cntorg>
+				</cntorgp>
+				<cntpos>Metadata Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>3354 College Road</address>
+					<city>Fairbanks</city>
+					<state>AK</state>
+					<postal>99709-3707</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>907-451-5039</cntvoice>
+				<cntfax>907-451-5050</cntfax>
+				<cntemail>dggspubs@alaska.gov</cntemail>
+				<hours>8 am to 4:30 pm, Monday through Friday, except State holidays.</hours>
+				<cntinst>Please contact us through the e-mail address above whenever possible.</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metac>none</metac>
+		<metuc>If the user has modified the data in any way they are obligated to describe the types of modifications they have performed in the supporting metadata file. User specifically agrees not to imply that changes they made were approved by the State of Alaska, Department of Natural Resources, Division of Geological &amp; Geophysical Surveys.</metuc>
+	</metainfo>
+	<Esri><CreaDate>20131203</CreaDate><CreaTime>11252400</CreaTime><ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\137.229.19.151\shared\mnt\data\aea\aedi-data-2013\geothermal.group\volcano\MP8</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="S:\mnt\data\aea\akenergyinventory.2013\GIS_Final_Deliverable_2013\GIS\Metadata\Geothermal\Metadata\MP8" dest="\\137.229.19.151\shared\mnt\data\aea\aedi-data-2013\geothermal.group\volcano\MP8" date="20131203" time="11252400"></copy></copyHistory></DataProperties></Esri></metadata>

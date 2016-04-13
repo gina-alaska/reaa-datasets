@@ -1,0 +1,57 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "LOCATION": "Pilot Station", "POTENTIAL": "50-220", "LAT": 61.939050, "LON": -162.873403 }, "geometry": { "type": "Point", "coordinates": [ -462909.185800, 1360129.679800 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Anvik", "POTENTIAL": "50-220", "LAT": 62.656644, "LON": -160.202947 }, "geometry": { "type": "Point", "coordinates": [ -316606.499200, 1424187.688100 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Galena", "POTENTIAL": "50-220", "LAT": 64.733142, "LON": -156.913589 }, "geometry": { "type": "Point", "coordinates": [ -138711.190600, 1644338.684100 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Grayling", "POTENTIAL": "50-220", "LAT": 62.903169, "LON": -160.063097 }, "geometry": { "type": "Point", "coordinates": [ -306976.182200, 1450969.604800 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Holy Cross", "POTENTIAL": "50-220", "LAT": 62.198764, "LON": -159.769478 }, "geometry": { "type": "Point", "coordinates": [ -298981.130100, 1371194.702200 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Kaltag", "POTENTIAL": "50-220", "LAT": 64.327033, "LON": -158.720747 }, "geometry": { "type": "Point", "coordinates": [ -227848.018500, 1604086.148800 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Koyokuk", "POTENTIAL": "50-220", "LAT": 64.870889, "LON": -157.685714 }, "geometry": { "type": "Point", "coordinates": [ -174584.837100, 1661503.961300 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Marshall", "POTENTIAL": "50-220", "LAT": 61.876500, "LON": -162.075136 }, "geometry": { "type": "Point", "coordinates": [ -422329.170600, 1347871.231600 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Mountain Village", "POTENTIAL": "50-220", "LAT": 62.083044, "LON": -163.727678 }, "geometry": { "type": "Point", "coordinates": [ -504819.977500, 1382298.529000 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Nulato", "POTENTIAL": "50-220", "LAT": 64.719197, "LON": -158.064425 }, "geometry": { "type": "Point", "coordinates": [ -193537.019300, 1645664.224600 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "St. Mary's", "POTENTIAL": "50-220", "LAT": 62.049053, "LON": -163.143217 }, "geometry": { "type": "Point", "coordinates": [ -475208.961100, 1374223.340000 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Aniak", "POTENTIAL": "220-450", "LAT": 61.582786, "LON": -159.537561 }, "geometry": { "type": "Point", "coordinates": [ -292728.434500, 1301527.622500 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Chuathbaluk", "POTENTIAL": "220-450", "LAT": 61.570028, "LON": -159.243622 }, "geometry": { "type": "Point", "coordinates": [ -277335.893100, 1298843.875900 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Crooked Creek", "POTENTIAL": "220-450", "LAT": 61.868058, "LON": -158.107508 }, "geometry": { "type": "Point", "coordinates": [ -215273.803000, 1327878.779600 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Upper Kalskag", "POTENTIAL": "220-450", "LAT": 61.537031, "LON": -160.314456 }, "geometry": { "type": "Point", "coordinates": [ -334166.526600, 1300097.482400 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Napaimute", "POTENTIAL": "220-450", "LAT": 61.534917, "LON": -158.739628 }, "geometry": { "type": "Point", "coordinates": [ -251007.253900, 1292923.331000 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Red Devil", "POTENTIAL": "220-450", "LAT": 61.760878, "LON": -157.308392 }, "geometry": { "type": "Point", "coordinates": [ -174027.942700, 1313568.896600 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Sleetmute", "POTENTIAL": "220-450", "LAT": 61.702358, "LON": -157.171025 }, "geometry": { "type": "Point", "coordinates": [ -167120.164400, 1306679.405900 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Stony River", "POTENTIAL": "220-450", "LAT": 61.788097, "LON": -156.588778 }, "geometry": { "type": "Point", "coordinates": [ -136078.042700, 1314929.823900 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Whitestone", "POTENTIAL": "600-900", "LAT": 64.156989, "LON": -145.862189 }, "geometry": { "type": "Point", "coordinates": [ 394441.312300, 1601201.779300 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Gakona", "POTENTIAL": "1500-1700", "LAT": 62.298847, "LON": -145.310708 }, "geometry": { "type": "Point", "coordinates": [ 448110.938500, 1398747.522000 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Copper Center", "POTENTIAL": "1500-1700", "LAT": 61.953250, "LON": -145.279100 }, "geometry": { "type": "Point", "coordinates": [ 454791.658300, 1360650.017600 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Chitina", "POTENTIAL": "1500-1700", "LAT": 61.526489, "LON": -144.410433 }, "geometry": { "type": "Point", "coordinates": [ 506659.005100, 1319663.767800 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Million Dollar Bridge", "POTENTIAL": "600-900", "LAT": 60.673889, "LON": -144.743889 }, "geometry": { "type": "Point", "coordinates": [ 502405.237700, 1222728.870000 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "Railroad Bridge near Talkeetna", "POTENTIAL": "600-900", "LAT": 62.326942, "LON": -150.117533 }, "geometry": { "type": "Point", "coordinates": [ 200495.198000, 1378393.424200 ] } }
+,
+{ "type": "Feature", "properties": { "LOCATION": "USGS gage near Talkeetna", "POTENTIAL": "600-900", "LAT": 62.348200, "LON": -150.015869 }, "geometry": { "type": "Point", "coordinates": [ 205596.517900, 1381076.911000 ] } }
+
+]
+}

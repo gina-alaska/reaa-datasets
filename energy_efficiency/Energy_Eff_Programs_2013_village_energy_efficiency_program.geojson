@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "CommunityN": "Akiachak", "Latitude": 60.90944, "Longitude": -161.43139, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -161.43139, 60.90944 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Alakanuk", "Latitude": 62.68889, "Longitude": -164.61528, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -164.61528, 62.68889 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Beaver", "Latitude": 66.35944, "Longitude": -147.39639, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -147.39639, 66.35944 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Chignik", "Latitude": 56.29528, "Longitude": -158.40222, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -158.40222, 56.29528 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Deering", "Latitude": 66.07497, "Longitude": -162.71274, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -162.71274, 66.07497 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Emmonak", "Latitude": 62.77778, "Longitude": -164.52306, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -164.52306, 62.77778 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Holy Cross", "Latitude": 62.19944, "Longitude": -159.77139, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -159.77139, 62.19944 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Kaltag", "Latitude": 64.32722, "Longitude": -158.72194, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -158.72194, 64.32722 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Kiana", "Latitude": 66.975, "Longitude": -160.42278, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -160.42278, 66.975 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "King Cove", "Latitude": 55.06167, "Longitude": -162.31028, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -162.31028, 55.06167 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Kipnuk", "Latitude": 59.93889, "Longitude": -164.04139, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -164.04139, 59.93889 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Kokhanok", "Latitude": 59.4416, "Longitude": -154.75514, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -154.75514, 59.4416 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Kotlik", "Latitude": 63.03417, "Longitude": -163.55333, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -163.55333, 63.03417 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Koyukuk", "Latitude": 64.88093, "Longitude": -157.70103, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -157.70103, 64.88093 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Manokotak", "Latitude": 58.98139, "Longitude": -159.05833, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -159.05833, 58.98139 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Newtok", "Latitude": 60.94278, "Longitude": -164.62944, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -164.62944, 60.94278 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Nikolai", "Latitude": 63.01333, "Longitude": -154.375, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -154.375, 63.01333 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Pilot Station", "Latitude": 61.93889, "Longitude": -162.875, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -162.875, 61.93889 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Shageluk", "Latitude": 62.68222, "Longitude": -159.56194, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -159.56194, 62.68222 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Shishmaref", "Latitude": 66.25667, "Longitude": -166.07194, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -166.07194, 66.25667 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Teller", "Latitude": 65.26361, "Longitude": -166.36083, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -166.36083, 65.26361 ] } },
+{ "type": "Feature", "properties": { "CommunityN": "Togiak", "Latitude": 59.06194, "Longitude": -160.37639, "ProgramNam": "Village Energy Efficiency Program", "RuleID": 1 }, "geometry": { "type": "Point", "coordinates": [ -160.37639, 59.06194 ] } }
+]
+}

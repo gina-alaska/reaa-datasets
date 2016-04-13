@@ -1,0 +1,29 @@
+[{
+  "field": "IC__kW_",
+  "handler": "between",
+  "values": [3,100],
+  "style": {
+    "pointRadius": 2
+  }
+},{
+  "field": "IC__kW_",
+  "handler": "between",
+  "values": [101,1000],
+  "style": {
+    "pointRadius": 5
+  }
+},{
+  "field": "IC__kW_",
+  "handler": "between",
+  "values": [1001,10000],
+  "style": {
+    "pointRadius": 10
+  }
+},{
+  "field": "IC__kW_",
+  "handler": "between",
+  "values": [10001,119700],
+  "style": {
+    "pointRadius": 15 
+  }
+}]

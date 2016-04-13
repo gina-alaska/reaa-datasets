@@ -1,0 +1,10 @@
+{
+  "graphicName":"square",
+  "rotation": 45,
+  "pointRadius":5,
+  "fillColor":"#FF0000",
+  "fillOpacity":0.9,
+  "strokeColor":"#FF0000",
+  "strokeWidth":1,
+  "strokeOpacity":1
+}
