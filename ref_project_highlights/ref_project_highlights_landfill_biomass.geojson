@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3338" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "Anchorage Landfill Gas  Electricity Construction", "location": "Anchorage", "lon": -149.88, "lat": 61.22, "type": "Landfill Biomass", "project_co": 3423886.0, "grant_amou": 2000000.0, "note": null, "label": "Anchorage Landfill Gas", "displaceme": 3000000, "aedg_id": 10070, "path": "http:\/\/aea.gina.alaska.edu\/pub\/ref2013highlights\/10070Photo.jpg", "summary": "http:\/\/aea.gina.alaska.edu\/pub\/ref2013highlights\/10070_REFSummary.pdf", "globalid": "{6F5CB373-CEF0-4C9E-8D93-E3D9168597D9}" }, "geometry": { "type": "Point", "coordinates": [ 220419.898486073449021, 1255580.958760552341118 ] } }
+]
+}

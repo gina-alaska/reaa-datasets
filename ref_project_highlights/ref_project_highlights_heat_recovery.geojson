@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3338" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "North Pole Heat Recovery", "location": "North Pole", "lon": -147.35, "lat": 64.75, "type": "Heat Recovery", "project_co": 1050000.0, "grant_amou": 840000.0, "note": null, "label": "North Pole Heat Recovery", "displaceme": 61500, "aedg_id": 10101, "path": "http:\/\/aea.gina.alaska.edu\/pub\/ref2013highlights\/10101Photo.jpg", "summary": "http:\/\/aea.gina.alaska.edu\/pub\/ref2013highlights\/10101_REFSummary.pdf", "globalid": "{3FACF29A-53B3-42D7-A29F-E3A8A2BF233F}" }, "geometry": { "type": "Point", "coordinates": [ 315978.982691971468739, 1659009.264493897091597 ] } }
+]
+}
