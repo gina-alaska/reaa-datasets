@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID": 18.0, "Latitude": 56.2867, "Longitude": -158.4233, "Common_Pro": "Indian Creek", "PtName": "Chignik", "PtNameFr": "NHAAP", "Utility_Ot": "Chignik Bay", "DamOwn": "Norquest Seafoods, Inc.", "MW": 0.06, "KW": 60.0 }, "geometry": { "type": "Point", "coordinates": [ -158.423299999626209, 56.286700000296669 ] } }
+]
+}
