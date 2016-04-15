@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LOCATION": "Gakona", "POTENTIAL": "1500-1700", "LAT": 62.298847222200003, "LON": -145.310708333 }, "geometry": { "type": "Point", "coordinates": [ -145.310708332193627, 62.298847222365232 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Copper Center", "POTENTIAL": "1500-1700", "LAT": 61.95325, "LON": -145.2791 }, "geometry": { "type": "Point", "coordinates": [ -145.279099999507139, 61.953250000069666 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Chitina", "POTENTIAL": "1500-1700", "LAT": 61.526488888899998, "LON": -144.410433332999986 }, "geometry": { "type": "Point", "coordinates": [ -144.410433332448576, 61.526488889162728 ] } }
+]
+}

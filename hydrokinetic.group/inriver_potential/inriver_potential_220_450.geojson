@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "LOCATION": "Aniak", "POTENTIAL": "220-450", "LAT": 61.582786111099999, "LON": -159.537561111 }, "geometry": { "type": "Point", "coordinates": [ -159.537561111858992, 61.582786110583491 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Chuathbaluk", "POTENTIAL": "220-450", "LAT": 61.5700277778, "LON": -159.243622222 }, "geometry": { "type": "Point", "coordinates": [ -159.243622222922284, 61.570027778141231 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Crooked Creek", "POTENTIAL": "220-450", "LAT": 61.868058333299999, "LON": -158.107508333 }, "geometry": { "type": "Point", "coordinates": [ -158.10750833355317, 61.868058332894137 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Upper Kalskag", "POTENTIAL": "220-450", "LAT": 61.537030555599998, "LON": -160.314455556000013 }, "geometry": { "type": "Point", "coordinates": [ -160.314455555749163, 61.537030555940305 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Napaimute", "POTENTIAL": "220-450", "LAT": 61.534916666699999, "LON": -158.739627778 }, "geometry": { "type": "Point", "coordinates": [ -158.739627778512698, 61.534916666676089 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Red Devil", "POTENTIAL": "220-450", "LAT": 61.760877777799998, "LON": -157.308391667 }, "geometry": { "type": "Point", "coordinates": [ -157.308391667417027, 61.760877778092826 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Sleetmute", "POTENTIAL": "220-450", "LAT": 61.702358333299998, "LON": -157.17102 }, "geometry": { "type": "Point", "coordinates": [ -157.171024999545693, 61.702358333105217 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Stony River", "POTENTIAL": "220-450", "LAT": 61.788097222200001, "LON": -156.588777778 }, "geometry": { "type": "Point", "coordinates": [ -156.5887777779582, 61.788097222384629 ] } }
+]
+}
