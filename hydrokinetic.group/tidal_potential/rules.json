@@ -1,5 +1,0 @@
-[
-  { "field":"EGP_MW","handler":"between","values":[1.3, 25],"style":{ "fillColor":"#83ffca" } },
-  { "field":"EGP_MW","handler":"between","values":[25, 100],"style":{ "fillColor":"#009387" } },
-  { "field":"EGP_MW","handler":"between","values":[100, 220],"style":{ "fillColor":"#002a94" } }
-]
