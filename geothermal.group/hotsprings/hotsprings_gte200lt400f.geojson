@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 94, "NUMBER_": null, "NAME": "Kolker", "TEMPERATUR": 360.0, "HIGHEST_RE": 0.0, "PH__FIELD_": 0.0, "TOTAL_DISS": 0.0, "FLOW_IN_L_": 0.0, "SURFACE_MA": null, "GENERAL_NO": "Kolker - 2010", "LATITUDE": null, "LONGITUDE": null, "SYMBOL": null, "NOTES": "Kolker - 2010" }, "geometry": { "type": "Point", "coordinates": [ -165.881524777585554, 54.139938766140148 ] } }
+]
+}

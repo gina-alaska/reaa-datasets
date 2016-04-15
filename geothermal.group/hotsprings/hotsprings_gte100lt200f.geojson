@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "NUMBER_": "AA-3", "NAME": "Kanaga", "TEMPERATUR": 104.0, "HIGHEST_RE": 104.0, "PH__FIELD_": 0.0, "TOTAL_DISS": 0.0, "FLOW_IN_L_": 0.0, "SURFACE_MA": "Hot springs and fumaroles", "GENERAL_NO": "When numerous springs are present, position is middle location.  Temperature is given for hottest spring or spring with highest flow.  If no data is shown for a field, no data is available.", "LATITUDE": "51.9199999320092", "LONGITUDE": "-177.149999767483", "SYMBOL": "3", "NOTES": null }, "geometry": { "type": "Point", "coordinates": [ -177.149999767485525, 51.919999932008899 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "NUMBER_": "AA-12", "NAME": "Geyser Bight", "TEMPERATUR": 102.0, "HIGHEST_RE": 0.0, "PH__FIELD_": 8.0, "TOTAL_DISS": 1820.0, "FLOW_IN_L_": 1050.0, "SURFACE_MA": "Hot springs, geysers, and fumaroles", "GENERAL_NO": "When numerous springs are present, position is middle location.  Temperature is given for hottest spring or spring with highest flow.  If no data is shown for a field, no data is available.", "LATITUDE": "53.2100000909157", "LONGITUDE": "-168.459999954089", "SYMBOL": "3", "NOTES": "Umnak.txt" }, "geometry": { "type": "Point", "coordinates": [ -168.459999954090051, 53.2100000909155 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "NUMBER_": "AA-16", "NAME": "Makushin Volcano", "TEMPERATUR": 150.0, "HIGHEST_RE": 150.0, "PH__FIELD_": 0.0, "TOTAL_DISS": 0.0, "FLOW_IN_L_": 0.0, "SURFACE_MA": "Fumaroles", "GENERAL_NO": "When numerous springs are present, position is middle location.  Temperature is given for hottest spring or spring with highest flow.  If no data is shown for a field, no data is available.", "LATITUDE": "53.8900000025876", "LONGITUDE": "-166.920000008404", "SYMBOL": "3", "NOTES": "Makushin.txt" }, "geometry": { "type": "Point", "coordinates": [ -166.920000008405708, 53.890000002587506 ] } }
+]
+}

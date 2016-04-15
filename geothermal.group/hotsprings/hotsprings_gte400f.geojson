@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 71, "NUMBER_": "SC-11", "NAME": "Augustine", "TEMPERATUR": 470.0, "HIGHEST_RE": 470.0, "PH__FIELD_": 0.0, "TOTAL_DISS": 0.0, "FLOW_IN_L_": 0.0, "SURFACE_MA": "Summit dome superheated fumaroles", "GENERAL_NO": "When numerous springs are present, position is middle location.  Temperature is given for hottest spring or spring with highest flow.  If no data is shown for a field, no data is available.", "LATITUDE": "59.3600000151369", "LONGITUDE": "-153.429999923208", "SYMBOL": "3", "NOTES": null }, "geometry": { "type": "Point", "coordinates": [ -153.429999923208356, 59.360000015136954 ] } }
+]
+}
