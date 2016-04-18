@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Utility_In": "Umnak Power", "Plant_Name": null, "Community": "Nikolski", "DEC_LAT": 52.93806, "DEC_LONG": -168.86778, "MWh_Oil": 0.0, "MWh_Gas": 0.0, "MWh_Coal": 0.0, "MWh_Hydro": 0.0, "MWh_Wind": 10.0, "MWh_Biodie": 0.0, "MWh_Geothe": 0.0, "MW_Oil": 0.0, "MW_Gas": 0.0, "MW_Coal": 0.0, "MW_Hydro": 0.0, "MW_Wind": 0.00114155251142, "MW_Biodies": 0.0, "MW_Geother": 0.0, "Utility_or": "Umnak Power", "Location": "Nikolski", "MW_New_Win": 0.065, "Symbol": "<.1" }, "geometry": { "type": "Point", "coordinates": [ -168.86777999411467, 52.938059992497472 ] } },
+{ "type": "Feature", "properties": { "Utility_In": null, "Plant_Name": null, "Community": "Perryville", "DEC_LAT": 55.91278, "DEC_LONG": -159.14556, "MWh_Oil": 1.0, "MWh_Gas": 0.0, "MWh_Coal": 0.0, "MWh_Hydro": 0.0, "MWh_Wind": 13.361, "MWh_Biodie": 0.0, "MWh_Geothe": 0.0, "MW_Oil": 0.000114155251142, "MW_Gas": 0.0, "MW_Coal": 0.0, "MW_Hydro": 0.0, "MW_Wind": 0.0015252283105, "MW_Biodies": 0.0, "MW_Geother": 0.0, "Utility_or": "City of Perryville", "Location": "Perryville", "MW_New_Win": 0.024, "Symbol": "<.1" }, "geometry": { "type": "Point", "coordinates": [ -159.14556001336544, 55.912780007924148 ] } }
+]
+}

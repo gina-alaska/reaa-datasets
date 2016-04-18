@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Utility_In": "Kodiak Electric Assn Inc", "Plant_Name": "Pillar Mountain", "Community": "Kodiak", "DEC_LAT": 57.78889, "DEC_LONG": -152.4019, "MWh_Oil": 0.0, "MWh_Gas": 0.0, "MWh_Coal": 0.0, "MWh_Hydro": 0.0, "MWh_Wind": 13206.0, "MWh_Biodie": 0.0, "MWh_Geothe": 0.0, "MW_Oil": 0.0, "MW_Gas": 0.0, "MW_Coal": 0.0, "MW_Hydro": 0.0, "MW_Wind": 1.50753424658, "MW_Biodies": 0.0, "MW_Geother": 0.0, "Utility_or": "Kodiak Electric Assoc.", "Location": "Kodiak", "MW_New_Win": 9.0, "Symbol": "1  - 10" }, "geometry": { "type": "Point", "coordinates": [ -152.401900009438009, 57.788890012777003 ] } },
+{ "type": "Feature", "properties": { "Utility_In": "Kotzebue Electric Association", "Plant_Name": null, "Community": "Kotzebue", "DEC_LAT": 66.89828, "DEC_LONG": -162.59585, "MWh_Oil": 21554.0, "MWh_Gas": 0.0, "MWh_Coal": 0.0, "MWh_Hydro": 0.0, "MWh_Wind": 776.693, "MWh_Biodie": 0.0, "MWh_Geothe": 0.0, "MW_Oil": 2.46050228311, "MW_Gas": 0.0, "MW_Coal": 0.0, "MW_Hydro": 0.0, "MW_Wind": 0.0886635844749, "MW_Biodies": 0.0, "MW_Geother": 0.0, "Utility_or": "KEA Wind\/Battery", "Location": "Kotzebue", "MW_New_Win": 2.94, "Symbol": "1  - 10" }, "geometry": { "type": "Point", "coordinates": [ -162.595849995622785, 66.898280008962402 ] } },
+{ "type": "Feature", "properties": { "Utility_In": "Banner Wind", "Plant_Name": "Nome - Banner Peak", "Community": "Nome", "DEC_LAT": 64.50111, "DEC_LONG": -165.40639, "MWh_Oil": 0.0, "MWh_Gas": 0.0, "MWh_Coal": 0.0, "MWh_Hydro": 0.0, "MWh_Wind": 1110.738, "MWh_Biodie": 0.0, "MWh_Geothe": 0.0, "MW_Oil": 0.0, "MW_Gas": 0.0, "MW_Coal": 0.0, "MW_Hydro": 0.0, "MW_Wind": 0.126796575342, "MW_Biodies": 0.0, "MW_Geother": 0.0, "Utility_or": "Banner Wind", "Location": "Nome", "MW_New_Win": 1.17, "Symbol": "1  - 10" }, "geometry": { "type": "Point", "coordinates": [ -165.406390000992019, 64.501109996882789 ] } }
+]
+}
