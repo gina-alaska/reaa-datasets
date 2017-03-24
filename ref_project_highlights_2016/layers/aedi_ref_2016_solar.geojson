@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FID_": 84.000000, "Shape__": "Point", "name": "Kaltag Solar Construction", "location": "Kata", "lon": -158.721944, "lat": 64.327222, "type": "Solar", "pro_cost": 100000.000000, "grant_amou": 90000.000000, "note": null, "label": "Kaltag Solar", "displaceme": 586.000000, "aedg_id": 10308.000000, "path": "http:\/\/aea.gina.alaska.edu\/pub\/ref2016highlights\/85_Kaltag_Solar_PV_AVEC_Plant.jpg", "summary": "http:\/\/aea.gina.alaska.edu\/pub\/ref2016highlights\/REFR9StatusReportAppendix_Part258.pdf", "globalid": null }, "geometry": { "type": "Point", "coordinates": [ -158.721944400000012, 64.3272222 ] } }
+]
+}

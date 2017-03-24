@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+
+while IFS="," read a b c; do 
+
+    sudo convert REFR9StatusReportAppendix_Part"$a".pdf REFR9StatusReportAppendix_Part"$b".pdf /auto/gis/gvolaea/htdocs/pub/ref2016highlights/REFR9StatusReportAppendix_Part"$a".pdf; done <$1

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FID_": 17.000000, "Shape__": "Point", "name": "McKinley Village Solar Thermal", "location": "Denali", "lon": -148.966667, "lat": 63.850000, "type": "Solar Thermal", "pro_cost": 210878.000000, "grant_amou": 190000.000000, "note": null, "label": "McKinley Village Solar Thermal", "displaceme": 0.000000, "aedg_id": 10103.000000, "path": "http:\/\/aea.gina.alaska.edu\/pub\/ref2016highlights\/9_Denali_Education_Center_Solar_Panels.jpg", "summary": "http:\/\/aea.gina.alaska.edu\/pub\/ref2016highlights\/REFR9StatusReportAppendix_Part176.pdf", "globalid": null }, "geometry": { "type": "Point", "coordinates": [ -148.966667, 63.85 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FID_": 10.000000, "Shape__": "Point", "name": "North Pole Heat Recovery", "location": "North Pole", "lon": -147.350000, "lat": 64.750000, "type": "Heat Recovery", "pro_cost": 1050000.000000, "grant_amou": 840000.000000, "note": null, "label": "North Pole Heat Recovery", "displaceme": 61500.000000, "aedg_id": 10101.000000, "path": "http:\/\/aea.gina.alaska.edu\/pub\/ref2013highlights\/10101Photo.jpg", "summary": "http:\/\/aea.gina.alaska.edu\/pub\/ref2013highlights\/10101_REFSummary.pdf", "globalid": "{3FACF29A-53B3-42D7-A29F-E3A8A2BF233F}" }, "geometry": { "type": "Point", "coordinates": [ -147.35, 64.75 ] } },
+{ "type": "Feature", "properties": { "FID_": 31.000000, "Shape__": "Point", "name": "Hoonah Heat Recovery Project", "location": "Hoonah", "lon": -135.443611, "lat": 58.110000, "type": "Heat Recovery", "pro_cost": 472963.000000, "grant_amou": 472963.000000, "note": null, "label": "Hoonah Heat Recovery Project", "displaceme": 39407.000000, "aedg_id": 10324.000000, "path": "http:\/\/aea.gina.alaska.edu\/pub\/ref2016highlights\/24_Hoonah_Heat_Recovery.jpg", "summary": "http:\/\/aea.gina.alaska.edu\/pub\/ref2016highlights\/REFR9StatusReportAppendix_Part199.pdf", "globalid": null }, "geometry": { "type": "Point", "coordinates": [ -135.4436111, 58.11 ] } },
+{ "type": "Feature", "properties": { "FID_": 48.000000, "Shape__": "Point", "name": "McGrath Heat Recovery", "location": "McGrath", "lon": -155.595833, "lat": 62.956389, "type": "Heat Recovery", "pro_cost": 1171180.000000, "grant_amou": 712415.000000, "note": null, "label": "McGrath Heat Recovery", "displaceme": 22979.000000, "aedg_id": 10063.000000, "path": null, "summary": "http:\/\/aea.gina.alaska.edu\/pub\/ref2016highlights\/REFR9StatusReportAppendix_Part254.pdf", "globalid": null }, "geometry": { "type": "Point", "coordinates": [ -155.59583330000001, 62.9563889 ] } }
+]
+}

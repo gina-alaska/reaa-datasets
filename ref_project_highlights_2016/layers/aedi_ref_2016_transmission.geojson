@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FID_": 4.000000, "Shape__": "Point", "name": "North Prince of Wales Intertie, Coffman Cove & Naukati", "location": "Coffman Cove", "lon": -132.877778, "lat": 56.013889, "type": "Transmission", "pro_cost": 6155019.000000, "grant_amou": 3752181.000000, "note": "Intertie to Naukati Bay", "label": "N. Prince of Wales Intertie", "displaceme": 111000.000000, "aedg_id": 10026.000000, "path": "http:\/\/aea.gina.alaska.edu\/pub\/ref2013highlights\/10026Photo.jpg", "summary": "http:\/\/aea.gina.alaska.edu\/pub\/ref2013highlights\/10026_REFSummary.pdf", "globalid": "{F92E0FF7-CF3C-4FAF-A402-19D36CD5BD4A}" }, "geometry": { "type": "Point", "coordinates": [ -132.877778, 56.013889 ] } }
+]
+}
